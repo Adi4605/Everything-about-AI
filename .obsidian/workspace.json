@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "6eb145e8d88dcd0b",
+    "type": "split",
+    "children": [
+      {
+        "id": "cada33ab2c624789",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19abe2fae0df8a07",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "34eff45079a66381",
+    "type": "split",
+    "children": [
+      {
+        "id": "52dac133b4f60c3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ca81bf46c9230e1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0fa84d54c68ea52b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cecbf038e84827a8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4fc35b19b56205b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "49b684fea9af7ab8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4672916a7faa2d3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "84b58da781266ce0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Scatchpad.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Scatchpad"
+            }
+          },
+          {
+            "id": "ae3b0f53e054f8d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f9cb45925d9569bb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "20d2bdb43b73f59f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Scatchpad.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Scatchpad"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ae042f8dc1570692",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94a70e5be51cfe74",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "19abe2fae0df8a07",
+  "lastOpenFiles": [
+    "Machine Learning/Supervised Learning/Supervised Learning.md",
+    "Artificial Intelligence/Artificial Intelligence.md",
+    "Artificial Intelligence/Types Of AI/Narrow AI.md",
+    "Artificial Intelligence/History of AI.md",
+    "Artificial Intelligence/AI Techniques.md",
+    "Machine Learning/Images/Pasted image 20260316200817.png",
+    "Pasted image 20260105143711.png",
+    "Pasted image 20260105143031.png",
+    "Pasted image 20260105142903.png",
+    "Machine Learning/Machine Learning.md",
+    "Convolutional Neural Network (CNN).md",
+    "Artificial Intelligence/Types Of AI",
+    "Deep Learning/Images/Pasted image 20260102140407.png",
+    "Deep Learning/Images/Pasted image 20260102135619.png",
+    "Deep Learning/Images/Pasted image 20260102134620.png",
+    "Deep Learning/Images/Pasted image 20260102115509.png",
+    "Machine Learning/Unsupervised Learning/Unsupervised Learning.md",
+    "Machine Learning/Supervised Learning",
+    "Artificial Intelligence/Images/Pasted image 20260316183645.png",
+    "Artificial Intelligence/Images/Pasted image 20260102211752.png",
+    "Machine Learning/Images",
+    "Deep Learning/Artificial Neural Networks.md",
+    "Artificial Intelligence/Types Of AI/Artificial Superintelligence.md",
+    "Artificial Intelligence/Types Of AI/Artificial General Intelligence.md",
+    "Deep Learning/Deep Learning.md",
+    "Deep Learning/Activation Function.md",
+    "Deep Learning/Gradient Descent.md",
+    "Feedforward Neural Network (FNN).md",
+    "Artificial Intelligence/Images",
+    "Artificial Intelligence",
+    "Machine Learning",
+    "Machine Learning/Unsupervised Learning/Dimensionality Reduction.md",
+    "Machine Learning/Unsupervised Learning/Clustering.md",
+    "Machine Learning/Unsupervised Learning/Basic Concepts/unlabeled data.md",
+    "Deep Learning/Neurons.md",
+    "Deep Learning/Pattern Recognition.md",
+    "Deep Learning/Images",
+    "Machine Learning/Unsupervised Learning/t-Distributed Stochastic Neighbor Embedding (t-SNE).md",
+    "Deep Learning",
+    "Machine Learning/Unsupervised Learning/Basic Concepts",
+    "Machine Learning/Unsupervised Learning/Images",
+    "Machine Learning/Unsupervised Learning/Principal Component Analysis (PCA).md",
+    "Machine Learning/Unsupervised Learning/k-means.md",
+    "Machine Learning/Unsupervised Learning/Basic Concepts/Elbow Method.md",
+    "Machine Learning/Unsupervised Learning/Basic Concepts/Eigenvectors and Eigenvalues.md"
+  ]
+}

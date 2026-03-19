@@ -1,0 +1,8 @@
+The activation function introduces non-linearity into the network, allowing it to learn and model complex relationships in the data.
+
+Types of Activation Function:
+1. [****Sigmoid Function****](https://www.geeksforgeeks.org/machine-learning/derivative-of-the-sigmoid-function/)****:**** Outputs values between 0 and 1. It is used in binary classification tasks like deciding if an image is a cat or not.
+2. [****ReLU (Rectified Linear Unit)****](https://www.geeksforgeeks.org/deep-learning/relu-activation-function-in-deep-learning/)****:**** A popular choice for hidden layers, it returns the input if positive and zero otherwise. It helps to solve the [vanishing gradient problem](https://www.geeksforgeeks.org/deep-learning/vanishing-and-exploding-gradients-problems-in-deep-learning/).
+3. [****Tanh (Hyperbolic Tangent)****](https://www.geeksforgeeks.org/deep-learning/tanh-activation-in-neural-network/)****:**** Similar to sigmoid but outputs values between -1 and 1. It is used in hidden layers when a broader range of outputs is needed.
+4. [****Softmax****](https://www.geeksforgeeks.org/deep-learning/the-role-of-softmax-in-neural-networks-detailed-explanation-and-applications/)****:**** Converts raw outputs into probabilities used in the final layer of a network for multi-class classification tasks.
+5. [****Leaky ReLU****](https://www.geeksforgeeks.org/machine-learning/Leaky-Relu-Activation-Function-in-Deep-Learning/)****:**** A variant of ReLU that allows small negative values for inputs helps in preventing “dead neurons” during training.
