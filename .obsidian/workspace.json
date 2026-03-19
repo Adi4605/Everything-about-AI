@@ -11,10 +11,12 @@
             "id": "19abe2fae0df8a07",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "image",
+              "state": {
+                "file": "Deep Learning/Images/Pasted image 20260105143711.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260105143711"
             }
           }
         ]
@@ -90,6 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Deep Learning/Images/Pasted image 20260105143711.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Pasted image 20260105143711"
             }
           },
           {
@@ -190,20 +193,21 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19abe2fae0df8a07",
+  "active": "5ca81bf46c9230e1",
   "lastOpenFiles": [
+    "Deep Learning/Images/Pasted image 20260105143031.png",
+    "Deep Learning/Images/Pasted image 20260105142903.png",
     "Machine Learning/Supervised Learning/Supervised Learning.md",
     "Artificial Intelligence/Artificial Intelligence.md",
     "Artificial Intelligence/Types Of AI/Narrow AI.md",
     "Artificial Intelligence/History of AI.md",
     "Artificial Intelligence/AI Techniques.md",
     "Machine Learning/Images/Pasted image 20260316200817.png",
-    "Pasted image 20260105143711.png",
-    "Pasted image 20260105143031.png",
-    "Pasted image 20260105142903.png",
+    "Deep Learning/Images/Pasted image 20260105143711.png",
     "Machine Learning/Machine Learning.md",
     "Convolutional Neural Network (CNN).md",
     "Artificial Intelligence/Types Of AI",
