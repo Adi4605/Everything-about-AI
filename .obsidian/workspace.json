@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Multi-label Classification.md",
+                "file": "Machine Learning/Supervised Learning/Multi-label Classification.md",
                 "mode": "source",
                 "source": false
               },
@@ -199,9 +199,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "94a70e5be51cfe74",
+  "active": "5ca81bf46c9230e1",
   "lastOpenFiles": [
-    "Multi-label Classification.md",
+    "Machine Learning/Supervised Learning/Multi-label Classification.md",
     "Machine Learning/Supervised Learning/Classification.md",
     "Machine Learning/Supervised Learning/Multi-class Classification.md",
     "Machine Learning/Supervised Learning/Binary Classification.md",
