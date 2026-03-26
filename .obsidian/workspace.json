@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "946078f823dbee39",
+        "id": "0002335cbd790dea",
         "type": "tabs",
         "children": [
           {
-            "id": "627e00ffc451b7aa",
+            "id": "26f63ae2cd9d077a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Machine Learning/Images/Pasted image 20260316200817.png"
+                "file": "Multi-label Classification.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260316200817"
+              "icon": "lucide-file",
+              "title": "Multi-label Classification"
             }
           }
         ]
@@ -92,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Images/Pasted image 20260316200817.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20260316200817"
+              "title": "Backlinks"
             }
           },
           {
@@ -166,7 +167,7 @@
         ]
       },
       {
-        "id": "14bc10a22d4c0d51",
+        "id": "13c98e8053a9258d",
         "type": "tabs",
         "children": [
           {
@@ -198,22 +199,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5ca81bf46c9230e1",
+  "active": "94a70e5be51cfe74",
   "lastOpenFiles": [
+    "Multi-label Classification.md",
+    "Machine Learning/Supervised Learning/Classification.md",
+    "Machine Learning/Supervised Learning/Multi-class Classification.md",
+    "Machine Learning/Supervised Learning/Binary Classification.md",
+    "Machine Learning/Supervised Learning/Basic Concepts/Confusion Matrix.md",
+    "Deep Learning/Activation Function.md",
+    "Machine Learning/Supervised Learning/Supervised Learning.md",
+    "Machine Learning/Images/Pasted image 20260316200817.png",
     "Machine Learning/Supervised Learning/Images",
     "Machine Learning/Images/Pasted image 20260102223604.png",
     "Machine Learning/Supervised Learning/Images/Pasted image 20260325195219.png",
-    "Machine Learning/Supervised Learning/Classification.md",
     "Machine Learning/Supervised Learning/Basic Concepts",
     "Machine Learning/Supervised Learning/Basic Concepts/Specificity.md",
     "Machine Learning/Supervised Learning/Basic Concepts/Accuracy.md",
-    "Machine Learning/Supervised Learning/Basic Concepts/Confusion Matrix.md",
     "Machine Learning/Supervised Learning/Basic Concepts/Precision.md",
     "Machine Learning/Supervised Learning/Basic Concepts/Recall.md",
     "Machine Learning/Supervised Learning/Basic Concepts/F1 Score.md",
     "Machine Learning/Supervised Learning/Basic Concepts/ROC Curve & AUC.md",
     "Pasted image 20260325193401.png",
-    "Machine Learning/Supervised Learning/Supervised Learning.md",
     "Machine Learning/Unsupervised Learning/Unsupervised Learning.md",
     "Machine Learning/Machine Learning.md",
     "Artificial Intelligence/Artificial Intelligence.md",
@@ -223,7 +229,6 @@
     "Artificial Intelligence/Types Of AI/Narrow AI.md",
     "Artificial Intelligence/History of AI.md",
     "Artificial Intelligence/AI Techniques.md",
-    "Machine Learning/Images/Pasted image 20260316200817.png",
     "Convolutional Neural Network (CNN).md",
     "Artificial Intelligence/Types Of AI",
     "Deep Learning/Images/Pasted image 20260102140407.png",
@@ -235,16 +240,12 @@
     "Artificial Intelligence/Types Of AI/Artificial Superintelligence.md",
     "Artificial Intelligence/Types Of AI/Artificial General Intelligence.md",
     "Deep Learning/Deep Learning.md",
-    "Deep Learning/Activation Function.md",
     "Deep Learning/Gradient Descent.md",
     "Feedforward Neural Network (FNN).md",
     "Artificial Intelligence/Images",
     "Artificial Intelligence",
     "Machine Learning",
-    "Machine Learning/Unsupervised Learning/Dimensionality Reduction.md",
-    "Machine Learning/Unsupervised Learning/Clustering.md",
     "Deep Learning/Images",
-    "Deep Learning",
-    "Machine Learning/Unsupervised Learning/Basic Concepts"
+    "Deep Learning"
   ]
 }

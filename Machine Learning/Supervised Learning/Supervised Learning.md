@@ -25,12 +25,3 @@ Working of Supervised Machine Learning :
 5. Deploy the Predict on New Data :
 	- Once the model performs well, it can be used to predict outputs for completely new, unseen data.
 
-Supervised Machine Learning Algorithms : 
-1. [[Linear Regression]] : 
-2. [[Logistic Regression]] :
-3. [[Decision Tree]] :
-4. [[Random Forest]] :
-5. [[Support Vector Machine]] :
-6. [[K-Nearest Neighbors]] :
-7. [[Gradient Boosting]] :
-8. [[Naive Bayes Algorithm]] :
