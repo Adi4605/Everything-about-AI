@@ -1,0 +1,4 @@
+- Used mainly for binary classification.
+- Dependent variable is categorical or binary (0 or 1)
+- Uses [[Sigmoid Function]] 
+- 

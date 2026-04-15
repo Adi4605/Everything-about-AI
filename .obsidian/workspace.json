@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Supervised Learning/Classification.md",
+                "file": "Deep Learning/Activation Functions/Sigmoid Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Classification"
+              "title": "Sigmoid Function"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Supervised Learning/Classification.md",
+                "file": "Deep Learning/Activation Functions/Sigmoid Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Classification"
+              "title": "Backlinks for Sigmoid Function"
             }
           },
           {
@@ -202,13 +202,25 @@
   },
   "active": "26f63ae2cd9d077a",
   "lastOpenFiles": [
-    "Machine Learning/Supervised Learning/Imbalanced Classification.md",
-    "Machine Learning/Supervised Learning/Classification.md",
-    "Machine Learning/Supervised Learning/Multi-label Classification.md",
-    "Machine Learning/Supervised Learning/Multi-class Classification.md",
-    "Machine Learning/Supervised Learning/Binary Classification.md",
+    "Deep Learning/Gradient Descent.md",
+    "Deep Learning/Activation Functions/Sigmoid Function.md",
+    "Machine Learning/Supervised Learning/Classification/Binary Classification.md",
+    "Deep Learning/Images/Pasted image 20260415203347.png",
+    "Machine Learning/Supervised Learning/Basic Concepts/Accuracy.md",
+    "Deep Learning/Activation Functions",
+    "Deep Learning/Images/Pasted image 20260415203154.png",
+    "Deep Learning/Activation Functions/Activation Function.md",
+    "Machine Learning/Supervised Learning/Classification/Algorithms/Logistic Regression.md",
+    "Deep Learning/Artificial Neural Network",
+    "Artificial Intelligence/History of AI.md",
+    "Machine Learning/Supervised Learning/Classification/Classification.md",
+    "Machine Learning/Supervised Learning/Classification/Algorithms",
+    "Machine Learning/Supervised Learning/Classification",
+    "Machine Learning/Competitive Learning",
+    "Machine Learning/Supervised Learning/Classification/Imbalanced Classification.md",
+    "Machine Learning/Supervised Learning/Classification/Multi-label Classification.md",
+    "Machine Learning/Supervised Learning/Classification/Multi-class Classification.md",
     "Machine Learning/Supervised Learning/Basic Concepts/Confusion Matrix.md",
-    "Deep Learning/Activation Function.md",
     "Machine Learning/Supervised Learning/Supervised Learning.md",
     "Machine Learning/Images/Pasted image 20260316200817.png",
     "Machine Learning/Supervised Learning/Images",
@@ -216,7 +228,6 @@
     "Machine Learning/Supervised Learning/Images/Pasted image 20260325195219.png",
     "Machine Learning/Supervised Learning/Basic Concepts",
     "Machine Learning/Supervised Learning/Basic Concepts/Specificity.md",
-    "Machine Learning/Supervised Learning/Basic Concepts/Accuracy.md",
     "Machine Learning/Supervised Learning/Basic Concepts/Precision.md",
     "Machine Learning/Supervised Learning/Basic Concepts/Recall.md",
     "Machine Learning/Supervised Learning/Basic Concepts/F1 Score.md",
@@ -229,24 +240,13 @@
     "Deep Learning/Images/Pasted image 20260105143031.png",
     "Deep Learning/Images/Pasted image 20260105142903.png",
     "Artificial Intelligence/Types Of AI/Narrow AI.md",
-    "Artificial Intelligence/History of AI.md",
     "Artificial Intelligence/AI Techniques.md",
-    "Convolutional Neural Network (CNN).md",
+    "Deep Learning/Artificial Neural Network/Convolutional Neural Network (CNN).md",
     "Artificial Intelligence/Types Of AI",
     "Deep Learning/Images/Pasted image 20260102140407.png",
-    "Deep Learning/Images/Pasted image 20260102135619.png",
-    "Deep Learning/Images/Pasted image 20260102134620.png",
     "Machine Learning/Supervised Learning",
     "Machine Learning/Images",
-    "Deep Learning/Artificial Neural Networks.md",
-    "Artificial Intelligence/Types Of AI/Artificial Superintelligence.md",
-    "Artificial Intelligence/Types Of AI/Artificial General Intelligence.md",
-    "Deep Learning/Deep Learning.md",
-    "Deep Learning/Gradient Descent.md",
-    "Artificial Intelligence/Images",
-    "Artificial Intelligence",
-    "Machine Learning",
-    "Deep Learning/Images",
-    "Deep Learning"
+    "Deep Learning/Artificial Neural Network/Artificial Neural Networks.md",
+    "Artificial Intelligence/Types Of AI/Artificial Superintelligence.md"
   ]
 }
