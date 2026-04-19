@@ -3,4 +3,5 @@
 
 - Range: [0, ∞)
 - Does not suffer from [[Vanishing Gradient Problem]] for positive inputs only.
+- Most widely used activation function.
 
