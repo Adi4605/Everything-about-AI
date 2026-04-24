@@ -4,4 +4,4 @@
 - Range: (-1,1)
 - This function is **Zero-Centered**
 - Suffers from [[Vanishing Gradient Problem]] but lower than [[Sigmoid Function]].
-- Works better in hidden layers
+- Works better in hidden layers.
