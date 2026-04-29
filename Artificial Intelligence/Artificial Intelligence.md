@@ -39,3 +39,4 @@ Subfields of Artificial Intelligence :
 5. [[Robotics]]
 6. [[Generative Models]]
 7. [[Explainable AI]] (XAI)
+8. [[Agentic AI]]
