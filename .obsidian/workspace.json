@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Artificial Intelligence.md",
+                "file": "Deep Learning/Activation Functions/Activation Function.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Artificial Intelligence"
+              "title": "Activation Function"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial Intelligence/Artificial Intelligence.md",
+                "file": "Deep Learning/Activation Functions/Activation Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Artificial Intelligence"
+              "title": "Backlinks for Activation Function"
             }
           },
           {
@@ -202,13 +202,23 @@
   },
   "active": "26f63ae2cd9d077a",
   "lastOpenFiles": [
+    "Codes/Activation_Functions.ipynb",
     "Artificial Intelligence/Agentic AI.md",
+    "Artificial Intelligence/AI Techniques.md",
+    "Deep Learning/Activation Functions/Activation Function.md",
+    "Codes",
+    "New folder",
+    "Machine Learning/Machine Learning.md",
     "Artificial Intelligence/Artificial Intelligence.md",
+    "Machine Learning/Supervised Learning/Supervised Learning.md",
+    "Machine Learning/Supervised Learning/Classification/Classification.md",
+    "Machine Learning/Supervised Learning/Classification/Multi-class Classification.md",
+    "Artificial Intelligence/Types Of AI/Artificial General Intelligence.md",
+    "Artificial Intelligence/Types Of AI/Narrow AI.md",
     "Deep Learning/Activation Functions/Tanh.md",
     "Deep Learning/Activation Functions/ReLU.md",
     "Deep Learning/Images/Pasted image 20260418204631.png",
     "Deep Learning/Images/Pasted image 20260418204519.png",
-    "Deep Learning/Activation Functions/Activation Function.md",
     "Deep Learning/Activation Functions/Linear Activation Function.md",
     "Deep Learning/Activation Functions/Sigmoid Function.md",
     "Deep Learning/Images/Pasted image 20260418203738.png",
@@ -231,22 +241,12 @@
     "Machine Learning/Supervised Learning/Classification/Algorithms/Logistic Regression.md",
     "Deep Learning/Artificial Neural Network",
     "Artificial Intelligence/History of AI.md",
-    "Machine Learning/Supervised Learning/Classification/Classification.md",
     "Machine Learning/Supervised Learning/Classification/Algorithms",
     "Machine Learning/Supervised Learning/Classification",
     "Machine Learning/Competitive Learning",
     "Machine Learning/Supervised Learning/Classification/Imbalanced Classification.md",
-    "Machine Learning/Supervised Learning/Classification/Multi-label Classification.md",
-    "Machine Learning/Supervised Learning/Classification/Multi-class Classification.md",
-    "Machine Learning/Supervised Learning/Basic Concepts/Confusion Matrix.md",
-    "Machine Learning/Supervised Learning/Supervised Learning.md",
     "Machine Learning/Images/Pasted image 20260316200817.png",
     "Machine Learning/Supervised Learning/Images",
-    "Machine Learning/Supervised Learning/Basic Concepts",
-    "Machine Learning/Supervised Learning/Basic Concepts/Specificity.md",
-    "Machine Learning/Supervised Learning/Basic Concepts/Precision.md",
-    "Machine Learning/Supervised Learning/Basic Concepts/Recall.md",
-    "Artificial Intelligence/Types Of AI",
-    "Machine Learning/Supervised Learning"
+    "Machine Learning/Supervised Learning/Basic Concepts"
   ]
 }
