@@ -7,12 +7,12 @@ Types of Activation Function:
 4. [[Tanh]] (Hyperbolic Tangent):  Similar to sigmoid but outputs values between -1 and 1. It is used in hidden layers when a broader range of outputs is needed.
 5. [[Softmax]]: Converts raw outputs into probabilities used in the final layer of a network for multi-class classification tasks.
 6. [[Leaky ReLU]]: A variant of ReLU that allows small negative values for inputs helps in preventing “dead neurons” during training.
-7. [[PReLU]]:
-8. [[ELU]]:
-9. [[SELU]]:
-10. [[Softplus]]:
-11. [[Softsign]]:
-12. [[Swish]]:
-13. [[Mish]]:
-14. [[GELU]]:
+7. [[PReLU]]: Negative slope is treated as a learnable parameter, allowing better gradient flow and reducing the [[Dying ReLU Problem]].
+8. [[ELU]]: Uses linear output for positive inputs and exponential function for negative inputs.
+9. [[SELU]]: Scales the ELU function to create self-normalizing neural network 
+10. [[Softplus]]: It is approximation of ReLU to provide smoother gradients and improved optimization in neural networks.
+11. [[Softsign]]: It provides gradual saturation and smoother gradient behavior compared to [[Tanh]].
+12. [[Swish]]: Uses sigmoid function to improve gradient flow and model performance compared to ReLU.
+13. [[Mish]]: It is designed to improve gradient flow, training stability and performance in deep neural networks.
+14. [[GELU]]: It is used extensively in transformer-based deep learning models for improved gradient flow and performance.
 15. 

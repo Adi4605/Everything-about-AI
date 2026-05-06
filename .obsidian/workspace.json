@@ -11,14 +11,10 @@
             "id": "26f63ae2cd9d077a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Supervised Learning/Classification/Algorithms/Decision Tree.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Decision Tree"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4fc35b19b56205b4",
@@ -94,7 +91,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine Learning/Supervised Learning/Classification/Algorithms/Decision Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +100,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Decision Tree"
+              "title": "Backlinks"
             }
           },
           {
@@ -185,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,15 +197,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5ca81bf46c9230e1",
+  "active": "26f63ae2cd9d077a",
   "lastOpenFiles": [
+    "Deep Learning/Images/Pasted image 20260506172052.png",
+    "Pasted image 20260506172020.png",
+    "Deep Learning/Activation Functions/PReLU.md",
+    "Deep Learning/Activation Functions/Activation Function.md",
+    "Deep Learning/Activation Functions/Softmax.md",
+    "Deep Learning/Activation Functions/Tanh.md",
+    "Machine Learning/Supervised Learning/Classification/Algorithms/Decision Tree.md",
+    "README.md",
     "Databases/diabetes.csv",
     "Codes/Decision_Trees.ipynb",
     "Machine Learning/Supervised Learning/Images/Pasted image 20260502112534.png",
     "Machine Learning/Supervised Learning/Images/Pasted image 20260502112301.png",
     "Machine Learning/Supervised Learning/Images/Pasted image 20260502111724.png",
     "Machine Learning/Supervised Learning/Classification/Algorithms/Logistic Regression.md",
-    "Machine Learning/Supervised Learning/Classification/Algorithms/Decision Tree.md",
     "Machine Learning/Supervised Learning/Classification/Classification.md",
     "Artificial Intelligence/Artificial Intelligence.md",
     "Machine Learning/Supervised Learning/Supervised Learning.md",
@@ -220,15 +224,12 @@
     "Databases/yahoo_data.csv",
     "Databases/waste_classification.zip",
     "Databases/waste management.csv",
-    "Databases/viewdraft.aspx.pdf",
-    "Deep Learning/Activation Functions/Activation Function.md",
     "Artificial Intelligence/Agentic AI.md",
     "Artificial Intelligence/AI Techniques.md",
     "Machine Learning/Machine Learning.md",
     "Machine Learning/Supervised Learning/Classification/Multi-class Classification.md",
     "Artificial Intelligence/Types Of AI/Artificial General Intelligence.md",
     "Artificial Intelligence/Types Of AI/Narrow AI.md",
-    "Deep Learning/Activation Functions/Tanh.md",
     "Deep Learning/Activation Functions/ReLU.md",
     "Deep Learning/Images/Pasted image 20260418204631.png",
     "Deep Learning/Images/Pasted image 20260418204519.png",
@@ -238,15 +239,10 @@
     "Deep Learning/Images/Pasted image 20260418203706.png",
     "Pasted image 20260418203412.png",
     "Deep Learning/Basic Concepts/Vanishing Gradient Problem.md",
-    "Deep Learning/Images/Pasted image 20260418201834.png",
-    "Deep Learning/Images/Pasted image 20260418201706.png",
     "Deep Learning/Basic Concepts/Gradient Vanishing Problem.md",
     "Deep Learning/Deep Learning.md",
     "Deep Learning/Gradient Descent.md",
     "Deep Learning/Pattern Recognition.md",
-    "Deep Learning/Basic Concepts/Neurons.md",
-    "Machine Learning/Supervised Learning/Classification/Binary Classification.md",
-    "Machine Learning/Supervised Learning/Basic Concepts/Accuracy.md",
-    "Artificial Intelligence/History of AI.md"
+    "Deep Learning/Basic Concepts/Neurons.md"
   ]
 }
