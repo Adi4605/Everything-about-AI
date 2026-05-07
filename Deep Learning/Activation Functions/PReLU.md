@@ -3,15 +3,8 @@
 - Helps to solve the [[Dying ReLU Problem]]
 - It improves the leaky ReLU by making the negative slope learnable 
 
-Case 1: Positive Input
-	If x>0 
-	then  f(x) = x
-	The value passes unchanged.
-	
-Case 2: Negative Input
-	If x<=0
-	then f(x) = ax    # '*a*' is learned automatically during the training
-	Instead of becoming 0 completely, a small negative value is allowed.
+Formula of PReLU:
+![[Pasted image 20260507173644.png]]
 
 ![[Pasted image 20260506172052.png|384]]
 
