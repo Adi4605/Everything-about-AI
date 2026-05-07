@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SELU.md",
+                "file": "Deep Learning/Activation Functions/SELU.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4fc35b19b56205b4",
@@ -202,8 +203,10 @@
   },
   "active": "26f63ae2cd9d077a",
   "lastOpenFiles": [
+    "Deep Learning/Images/Pasted image 20260507174815.png",
+    "Deep Learning/Images/Pasted image 20260507174646.png",
     "Deep Learning/Activation Functions/Activation Function.md",
-    "SELU.md",
+    "Deep Learning/Activation Functions/SELU.md",
     "Deep Learning/Activation Functions/PReLU.md",
     "Deep Learning/Activation Functions/ELU.md",
     "Deep Learning/Images/Pasted image 20260507173745.png",
@@ -242,11 +245,9 @@
     "Artificial Intelligence/Types Of AI/Artificial General Intelligence.md",
     "Artificial Intelligence/Types Of AI/Narrow AI.md",
     "Deep Learning/Images/Pasted image 20260418204631.png",
-    "Deep Learning/Images/Pasted image 20260418204519.png",
     "Deep Learning/Activation Functions/Linear Activation Function.md",
     "Deep Learning/Basic Concepts/Vanishing Gradient Problem.md",
     "Deep Learning/Basic Concepts/Gradient Vanishing Problem.md",
-    "Deep Learning/Deep Learning.md",
-    "Deep Learning/Gradient Descent.md"
+    "Deep Learning/Deep Learning.md"
   ]
 }
