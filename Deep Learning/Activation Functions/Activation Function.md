@@ -11,7 +11,7 @@ Types of Activation Function:
 8. [[ELU]]: Uses linear output for positive inputs and exponential function for negative inputs.
 9. [[SELU]]: Scales the ELU function to create self-normalizing neural network 
 10. [[Softplus]]: It is approximation of ReLU to provide smoother gradients and improved optimization in neural networks.
-11. [[Softsign]]: It provides gradual saturation and smoother gradient behavior compared to [[Tanh]].
+11. [[Softsign]]: It provides gradual saturation and smoother gradient behavior compared to Tanh.
 12. [[Swish]]: Uses sigmoid function to improve gradient flow and model performance compared to ReLU.
 13. [[Mish]]: It is designed to improve gradient flow, training stability and performance in deep neural networks.
 14. [[GELU]]: It is used extensively in transformer-based deep learning models for improved gradient flow and performance.
