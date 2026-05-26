@@ -1,4 +1,4 @@
-# 📘 AI Notes (Work in Progress)
+# AI Notes (Work in Progress)
 
 This repository contains my personal notes on **Artificial Intelligence**, which I’m building while learning.
 
@@ -8,7 +8,7 @@ This is still a work in progress — I’ll be adding more concepts and improvin
 
 ---
 
-## 🚧 What I’ll be adding
+## What I’ll be adding
 
 Going forward, I’ll be covering:
 
@@ -25,7 +25,7 @@ Basically, the goal is to turn this into a **complete AI knowledge base**.
 
 ---
 
-## 📂 Structure
+## Structure
 
 The structure is not fixed yet, but currently it’s something like:
 
@@ -38,7 +38,7 @@ Since this is an Obsidian vault, a lot of value comes from how notes are linked 
 
 ---
 
-## 🛠️ How to use this
+## How to use this
 
 If you want the best experience:
 
@@ -50,7 +50,7 @@ You can read it on GitHub too, but it won’t feel as connected.
 
 ---
 
-## 🎯 Why I made this
+## Why I made this
 
 * To actually understand AI concepts instead of just memorizing
 * To have proper notes for revision
@@ -58,21 +58,21 @@ You can read it on GitHub too, but it won’t feel as connected.
 
 ---
 
-## ⚠️ Note
+## Note
 
 Some notes may be incomplete, messy, or updated later as I learn more.
 
 ---
 
-## 🤝 Contributions
+## Contributions
 
 If you find mistakes or want to improve something, feel free to contribute.
 
 ---
 
-## ⭐
+##
 
-If this helps you, consider starring the repo 🙂
+If this helps you, consider starring the repo 
 
 ---
 
