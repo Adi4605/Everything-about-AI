@@ -1,4 +1,4 @@
-The activation function introduces non-linearity into the network, allowing it to learn and model complex relationships in the data.
+ The activation function introduces non-linearity into the network, allowing it to learn and model complex relationships in the data.
 
 Types of Activation Function:
 1. [[Linear Activation Function]]: It is also known as "no activation" or "identity function", is where the activation is proportional to the input.
