@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4fc35b19b56205b4",
@@ -212,9 +211,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "26f63ae2cd9d077a",
+  "active": "5ca81bf46c9230e1",
   "lastOpenFiles": [
-    "Pasted image 20260601125231.png",
+    "Machine Learning/Supervised Learning/Images/Pasted image 20260601125231.png",
     "Machine Learning/Supervised Learning/Classification/Classification.md",
     "Machine Learning/Supervised Learning/Classification/Algorithms/Decision Tree.md",
     "Machine Learning/Supervised Learning/Classification/Algorithms/Random Forest.md",
