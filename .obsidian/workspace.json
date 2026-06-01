@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Supervised Learning/Classification/Algorithms/K-Nearest Neighbors.md",
+                "file": "Machine Learning/Supervised Learning/Classification/Algorithms/Random Forest.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "K-Nearest Neighbors"
+              "title": "Random Forest"
             }
           }
         ]
@@ -213,13 +213,15 @@
   },
   "active": "5ca81bf46c9230e1",
   "lastOpenFiles": [
+    "Machine Learning/Supervised Learning/Basic Concepts/Bagging.md",
+    "Machine Learning/Supervised Learning/Classification/Algorithms/Random Forest.md",
+    "Machine Learning/Supervised Learning/Classification/Algorithms/Logistic Regression.md",
+    "Machine Learning/Supervised Learning/Classification/Algorithms/K-Nearest Neighbors.md",
     "Machine Learning/Supervised Learning/Images/Pasted image 20260601133617.png",
     "Machine Learning/Supervised Learning/Images/Pasted image 20260601133522.png",
     "Machine Learning/Supervised Learning/Images/Pasted image 20260601132930.png",
     "Pasted image 20260601132548.png",
     "Machine Learning/Supervised Learning/Classification/Classification.md",
-    "Machine Learning/Supervised Learning/Classification/Algorithms/K-Nearest Neighbors.md",
-    "Machine Learning/Supervised Learning/Classification/Algorithms/Random Forest.md",
     "Machine Learning/Supervised Learning/Images/Pasted image 20260601125231.png",
     "Machine Learning/Supervised Learning/Classification/Algorithms/Decision Tree.md",
     "Machine Learning/Supervised Learning/Supervised Learning.md",
@@ -227,7 +229,6 @@
     "Machine Learning/Supervised Learning/Basic Concepts/Fine-Tuning.md",
     "Machine Learning/Transfer Learning",
     "Machine Learning/Supervised Learning/Basic Concepts/Pruning.md",
-    "Machine Learning/Supervised Learning/Classification/Algorithms/Logistic Regression.md",
     "Machine Learning/Supervised Learning/Classification/Multi-label Classification.md",
     "Machine Learning/Supervised Learning/Classification/Imbalanced Classification.md",
     "Machine Learning/Supervised Learning/Classification/Multi-class Classification.md",
@@ -249,7 +250,6 @@
     "Deep Learning/Images/Pasted image 20260524183159.png",
     "Deep Learning/Images/Pasted image 20260524182816.png",
     "Deep Learning/Images/Pasted image 20260524182729.png",
-    "Deep Learning/Images/Pasted image 20260520212834.png",
     "Databases/diabetes.csv",
     "Codes/Decision_Trees.ipynb",
     "Databases/green_tech_data.csv",
