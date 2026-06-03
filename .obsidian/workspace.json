@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Supervised Learning/Classification/Algorithms/Naive Bayes.md",
+                "file": "Machine Learning/Supervised Learning/Basic Concepts/Laplace Smoothing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Naive Bayes"
+              "title": "Laplace Smoothing"
             }
           }
         ]
@@ -211,11 +211,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5ca81bf46c9230e1",
+  "active": "26f63ae2cd9d077a",
   "lastOpenFiles": [
-    "Machine Learning/Supervised Learning/Images/Pasted image 20260602211730.png",
     "Machine Learning/Supervised Learning/Classification/Classification.md",
-    "Machine Learning/Supervised Learning/Classification/Algorithms/Naive Bayes.md",
+    "Machine Learning/Supervised Learning/Classification/Algorithms/Naïve Bayes.md",
+    "Machine Learning/Supervised Learning/Basic Concepts/Laplace Smoothing.md",
+    "Machine Learning/Supervised Learning/Images/Pasted image 20260603160545.png",
+    "Machine Learning/Supervised Learning/Images/Pasted image 20260602211730.png",
     "Machine Learning/Unsupervised Learning/Clustering.md",
     "Machine Learning/Supervised Learning/Classification/Imbalanced Classification.md",
     "Machine Learning/Supervised Learning/Classification/Multi-class Classification.md",
@@ -238,7 +240,6 @@
     "Machine Learning/Supervised Learning/Basic Concepts/Accuracy.md",
     "Machine Learning/Supervised Learning/Classification/Algorithms/Decision Tree.md",
     "Machine Learning/Supervised Learning/Classification/Algorithms/Logistic Regression.md",
-    "Machine Learning/Supervised Learning/Classification/Algorithms/Random Forest.md",
     "Machine Learning/Supervised Learning/Images/Pasted image 20260601133617.png",
     "Machine Learning/Supervised Learning/Images/Pasted image 20260601133522.png",
     "Machine Learning/Supervised Learning/Images/Pasted image 20260601132930.png",
@@ -248,8 +249,6 @@
     "Deep Learning/Images/Pasted image 20260524184252.png",
     "Deep Learning/Images/Pasted image 20260524184125.png",
     "Deep Learning/Images/Pasted image 20260524183159.png",
-    "Deep Learning/Images/Pasted image 20260524182816.png",
-    "Deep Learning/Images/Pasted image 20260524182729.png",
     "Databases/diabetes.csv",
     "Codes/Decision_Trees.ipynb",
     "Databases/green_tech_data.csv",

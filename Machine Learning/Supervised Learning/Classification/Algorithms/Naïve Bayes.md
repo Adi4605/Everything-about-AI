@@ -30,5 +30,5 @@ Advantages:
 
 Disadvantages:
 - Strong independence assumption
-- Zero probability problem -> Solution [[Laplace Smoothing]]
+- [[Zero Probability Problem]] -> Solution [[Laplace Smoothing]]
 - Lower accuracy for complex relationships

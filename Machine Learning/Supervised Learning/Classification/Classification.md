@@ -33,7 +33,7 @@ Popular Classification Algorithms:
 3. [[Random Forest]]
 4. [[K-Nearest Neighbors]]
 5. [[Support Vector Machine]]
-6. [[Naive Bayes]]
+6. [[Naïve Bayes]]
 7. [[Neural Networks]]
 
 Evaluation Metrics for Classification:
