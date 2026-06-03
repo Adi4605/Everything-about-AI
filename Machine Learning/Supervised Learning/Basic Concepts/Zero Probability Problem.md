@@ -1,0 +1,11 @@
+- Major issue in [[Naïve Bayes]] Classification.
+- Occurs when a feature value that appears in the test data was never seen in the training data for a particular class which results the probability of that class becomes **zero**, even if the class might actually be correct.
+- If a probability of a class becomes zero then it ruins the entire calculation of Naïve Bayes
+- Valid classes may get probability 0.
+- It shows model has poor generalization and cannot handle unseen features.
+- It commonly occurs in case of 
+	- Spam Detection
+	- Sentiment Analysis
+	- Language Models
+	- Document Classification
+- Solution for Zero Probability Problem is [[Laplace Smoothing]].
