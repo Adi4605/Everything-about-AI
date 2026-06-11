@@ -34,7 +34,7 @@ Popular Classification Algorithms:
 4. [[K-Nearest Neighbors]]
 5. [[Support Vector Machine]]
 6. [[Naïve Bayes]]
-7. [[Neural Networks]]
+7. [[Artificial Neural Networks]]
 
 Evaluation Metrics for Classification:
 1. [[Accuracy]]
