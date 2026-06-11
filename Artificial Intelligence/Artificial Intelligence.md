@@ -40,3 +40,4 @@ Subfields of Artificial Intelligence :
 6. [[Generative Models]]
 7. [[Explainable AI]] (XAI)
 8. [[Agentic AI]]
+9. [[RAG]]
