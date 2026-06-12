@@ -3,5 +3,5 @@
 
 - Range: (-1,1)
 - This function is **Zero-Centered**
-- Suffers from [[Vanishing Gradient Problem]] but lower than [[Sigmoid Function]].
+- Suffers from [[Vanishing Gradient Problem]] but lower than [[Sigmoid]].
 - Works better in hidden layers.

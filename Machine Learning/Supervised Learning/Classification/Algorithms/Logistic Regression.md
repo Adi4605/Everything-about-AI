@@ -1,6 +1,6 @@
 - Works best for linear classification
 - It is used to **predict categories**, not continuous values
-- Uses [[Sigmoid Function]] 
+- Uses [[Sigmoid]] 
 - Dependent variable is categorical or binary (0 or 1)
 - It creates a decision boundary
 - Instead of using Mean Squared Error, Log Loss/Binary Cross Entropy is used
