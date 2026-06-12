@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/Basic Concepts/Dropout.md",
+                "file": "Deep Learning/Basic Concepts/Overfitting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dropout"
+              "title": "Overfitting"
             }
           }
         ]
@@ -210,9 +210,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "94a70e5be51cfe74",
+  "active": "5ca81bf46c9230e1",
   "lastOpenFiles": [
     "Deep Learning/Basic Concepts/Dropout.md",
+    "Deep Learning/Basic Concepts/Overfitting.md",
     "Deep Learning/Activation Functions/Sigmoid.md",
     "Sigmoid.md",
     "Deep Learning/Activation Functions/GELU.md",
@@ -242,7 +243,6 @@
     "Machine Learning/Supervised Learning/Basic Concepts/Laplace Smoothing.md",
     "Machine Learning/Supervised Learning/Basic Concepts/Fine-Tuning.md",
     "Machine Learning/Supervised Learning/Basic Concepts/F1 Score.md",
-    "Machine Learning/Supervised Learning/Basic Concepts/Confusion Matrix.md",
     "Machine Learning/Images/Pasted image 20260603164029.png",
     "Machine Learning/Reinforcement Learning/Images/Pasted image 20260603163153.png",
     "Machine Learning/Reinforcement Learning/Images",
