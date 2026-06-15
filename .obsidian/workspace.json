@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/Basic Concepts/Regularization.md",
+                "file": "Deep Learning/Basic Concepts/Hyperparameter Tuning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regularization"
+              "title": "Hyperparameter Tuning"
             }
           }
         ]
@@ -212,11 +212,17 @@
   },
   "active": "5ca81bf46c9230e1",
   "lastOpenFiles": [
+    "Deep Learning/Deep Learning.md",
+    "Deep Learning/Artificial Neural Network/Artificial Neural Networks.md",
+    "Deep Learning/Pattern Recognition.md",
+    "Deep Learning/Basic Concepts/Hyperparameter Tuning.md",
+    "Artificial Intelligence/AI Techniques.md",
+    "Deep Learning/Images/Pasted image 20260615172537.png",
+    "Deep Learning/Basic Concepts/Regularization.md",
     "Deep Learning/Images/Pasted image 20260615170319.png",
     "Deep Learning/Images/Pasted image 20260615170052.png",
     "Deep Learning/Images/Pasted image 20260615165758.png",
     "Deep Learning/Basic Concepts/Dropout.md",
-    "Deep Learning/Basic Concepts/Regularization.md",
     "Deep Learning/Basic Concepts/Backpropagation.md",
     "Deep Learning/Basic Concepts/Bias-Variance Tradeoff.md",
     "Deep Learning/Basic Concepts/Forward Propagation.md",
@@ -228,7 +234,6 @@
     "Deep Learning/Images/Pasted image 20260612170210.png",
     "Deep Learning/Basic Concepts/Underfitting.md",
     "Deep Learning/Basic Concepts/Overfitting.md",
-    "Deep Learning/Artificial Neural Network/Artificial Neural Networks.md",
     "Deep Learning/Activation Functions/Sigmoid.md",
     "Sigmoid.md",
     "Deep Learning/Activation Functions/GELU.md",
@@ -245,13 +250,8 @@
     "Machine Learning/Supervised Learning/Images/Pasted image 20260611153925.png",
     "Machine Learning/Supervised Learning/Basic Concepts/ROC Curve & AUC.md",
     "Machine Learning/Supervised Learning/Classification/Algorithms/Decision Tree.md",
-    "Machine Learning/Supervised Learning/Classification/Algorithms/Random Forest.md",
-    "Machine Learning/Supervised Learning/Classification/Algorithms/Naïve Bayes.md",
-    "Machine Learning/Supervised Learning/Classification/Algorithms/Logistic Regression.md",
     "Machine Learning/Images/Pasted image 20260603164029.png",
-    "Machine Learning/Reinforcement Learning/Images/Pasted image 20260603163153.png",
     "Machine Learning/Reinforcement Learning/Images",
-    "Pasted image 20260603162955.png",
     "Machine Learning/Reinforcement Learning",
     "Machine Learning/Transfer Learning",
     "Databases/diabetes.csv",
