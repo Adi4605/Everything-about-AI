@@ -1,4 +1,4 @@
-- Occurs when: Gradients become extremely large during backpropagation.
+- Occurs when: Gradients become extremely large during [[Backpropagation]].
 - Which results in:
 	- Weight updates become huge
 	- The model becomes unstable
