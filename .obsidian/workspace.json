@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/Basic Concepts/Forward Propagation.md",
+                "file": "Deep Learning/Basic Concepts/Exploding Gradient Problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forward Propagation"
+              "title": "Exploding Gradient Problem"
             }
           }
         ]
@@ -212,8 +212,10 @@
   },
   "active": "2d98a6e9b88fbcac",
   "lastOpenFiles": [
-    "Deep Learning/Basic Concepts/Backpropagation.md",
+    "Deep Learning/Basic Concepts/Vanishing Gradient Problem.md",
+    "Deep Learning/Basic Concepts/Exploding Gradient Problem.md",
     "Deep Learning/Basic Concepts/Forward Propagation.md",
+    "Deep Learning/Basic Concepts/Backpropagation.md",
     "Deep Learning/Basic Concepts/Dropout.md",
     "Deep Learning/Basic Concepts/Bias-Variance Tradeoff.md",
     "Deep Learning/Images/Pasted image 20260612170210.png",
@@ -242,8 +244,6 @@
     "Machine Learning/Supervised Learning/Classification/Algorithms/K-Nearest Neighbors.md",
     "Machine Learning/Supervised Learning/Basic Concepts/Zero Probability Problem.md",
     "Machine Learning/Supervised Learning/Basic Concepts/Specificity.md",
-    "Machine Learning/Supervised Learning/Basic Concepts/Recall.md",
-    "Machine Learning/Supervised Learning/Basic Concepts/Pruning.md",
     "Machine Learning/Images/Pasted image 20260603164029.png",
     "Machine Learning/Reinforcement Learning/Images/Pasted image 20260603163153.png",
     "Machine Learning/Reinforcement Learning/Images",
