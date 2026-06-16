@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning/Basic Concepts/Bayesian Optimization.md",
+                "file": "Deep Learning/Basic Concepts/Hyperband.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bayesian Optimization"
+              "title": "Hyperband"
             }
           }
         ]
@@ -212,8 +212,9 @@
   },
   "active": "5ca81bf46c9230e1",
   "lastOpenFiles": [
-    "Deep Learning/Basic Concepts/Bayesian Optimization.md",
     "Deep Learning/Basic Concepts/Hyperparameter Tuning.md",
+    "Deep Learning/Basic Concepts/Hyperband.md",
+    "Deep Learning/Basic Concepts/Bayesian Optimization.md",
     "Deep Learning/Basic Concepts/Gradient Clipping.md",
     "Deep Learning/Basic Concepts/Forward Propagation.md",
     "Deep Learning/Basic Concepts/Exploding Gradient Problem.md",
@@ -248,7 +249,6 @@
     "Machine Learning/Supervised Learning/Classification/Algorithms/Support Vector Machine.md",
     "Machine Learning/Supervised Learning/Classification/Classification.md",
     "Machine Learning/Supervised Learning/Regression",
-    "Machine Learning/Supervised Learning/Supervised Learning.md",
     "Machine Learning/Supervised Learning/Images/Pasted image 20260611153925.png",
     "Machine Learning/Images/Pasted image 20260603164029.png",
     "Machine Learning/Reinforcement Learning/Images",
