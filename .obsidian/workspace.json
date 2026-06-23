@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Supervised Learning/Basic Concepts/Sparse Activation.md",
+                "file": "Deep Learning/Basic Concepts/Probabilistic Gating.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sparse Activation"
+              "title": "Probabilistic Gating"
             }
           }
         ]
@@ -178,7 +178,7 @@
         "currentTab": 5
       },
       {
-        "id": "8bfe8a91a148ec19",
+        "id": "4f13af6db368ab78",
         "type": "tabs",
         "children": [
           {
@@ -195,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,12 +212,19 @@
   },
   "active": "5ca81bf46c9230e1",
   "lastOpenFiles": [
-    "Machine Learning/Supervised Learning/Basic Concepts/Catastrophic Forgetting.md",
+    "Artificial Intelligence/Artificial Intelligence.md",
+    "Deep Learning/Basic Concepts/Probabilistic Gating.md",
+    "Kernel Functions.md",
+    "Early Stopping.md",
+    "Deep Learning/Activation Functions/GELU.md",
+    "Deep Learning/Activation Functions/ELU.md",
+    "Deep Learning/Activation Functions/Activation Function.md",
     "Machine Learning/Supervised Learning/Basic Concepts/Sparse Activation.md",
+    "Machine Learning/Supervised Learning/Basic Concepts/Catastrophic Forgetting.md",
     "Deep Learning/Gradient Descent.md",
     "Deep Learning/Pattern Recognition.md",
     "Deep Learning/Deep Learning.md",
-    "Early Stopping.md",
+    "Deep Learning/Basic Concepts/Early Stopping.md",
     "Deep Learning/Basic Concepts/Loss Function.md",
     "Deep Learning/Basic Concepts/Backpropagation.md",
     "Deep Learning/Basic Concepts/Hyperband.md",
@@ -232,19 +239,12 @@
     "Deep Learning/Artificial Neural Network/Artificial Neural Networks.md",
     "Artificial Intelligence/AI Techniques.md",
     "Deep Learning/Images/Pasted image 20260615172537.png",
-    "Deep Learning/Basic Concepts/Regularization.md",
     "Deep Learning/Images/Pasted image 20260615170319.png",
     "Deep Learning/Images/Pasted image 20260615170052.png",
     "Deep Learning/Images/Pasted image 20260615165758.png",
     "Deep Learning/Images/Pasted image 20260615164602.png",
     "Deep Learning/Images/Pasted image 20260615164258.png",
-    "Deep Learning/Basic Concepts/Vanishing Gradient Problem.md",
     "Deep Learning/Images/Pasted image 20260612170210.png",
-    "Deep Learning/Basic Concepts/Underfitting.md",
-    "Deep Learning/Basic Concepts/Overfitting.md",
-    "Deep Learning/Activation Functions/Sigmoid.md",
-    "Sigmoid.md",
-    "Deep Learning/Activation Functions/GELU.md",
     "RAG/Images",
     "RAG",
     "RAG/Images/Pasted image 20260611204604.png",
