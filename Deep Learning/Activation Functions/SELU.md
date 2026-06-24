@@ -3,7 +3,7 @@
 - Faster and more stable training
 - Better performance in deep networks
 - More computational cost
-- Requires specific conditions like normalized inputs, proper weights initialization, [[AlphaDropout]] is used instead of normal dropout.
+- Requires specific conditions like normalized inputs, proper weights initialization, Alpha Dropout is used instead of normal dropout.
 - Not always better than ReLU
 - Helps prevent vanishing/ exploding gradients
 
