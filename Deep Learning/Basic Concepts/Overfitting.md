@@ -1,6 +1,6 @@
 - Overfitting occurs when a machine learning model learns the training data too well, including its noise, random fluctuations, and outliers, instead of learning the actual underlying pattern.
 - 'Overfitting is a condition where a model memorizes the training data rather than learning general patterns.'
-- [[Bias-Variance Tradeoff]] for overfitting is 'Low Bias + High Variance' 
+- [[Bias-Variance Tradeoff]] for overfitting is 'Low Bias + High Variance' .
 
 Signs of overfitting:
 - Training accuracy is very high.
