@@ -211,12 +211,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "94a70e5be51cfe74",
+  "active": "2d98a6e9b88fbcac",
   "lastOpenFiles": [
+    "Data Augmentation/Data Augmentation.md",
     "Data Augmentation",
     "Deep Learning/Basic Concepts/Vanishing Gradient Problem.md",
     "Deep Learning/Basic Concepts/Overfitting.md",
-    "Data Augmentation/Data Augmentation.md",
     "Deep Learning/Basic Concepts/Regularization.md",
     "Deep Learning/Basic Concepts/Probabilistic Gating.md",
     "Deep Learning/Basic Concepts/Neurons.md",
@@ -257,7 +257,6 @@
     "Machine Learning/Transfer Learning",
     "Databases/diabetes.csv",
     "Codes/Decision_Trees.ipynb",
-    "Databases/green_tech_data.csv",
-    "Databases"
+    "Databases/green_tech_data.csv"
   ]
 }
