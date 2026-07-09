@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4fc35b19b56205b4",
@@ -210,7 +211,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5ca81bf46c9230e1",
+  "active": "94a70e5be51cfe74",
   "lastOpenFiles": [
     "Data Augmentation",
     "Deep Learning/Basic Concepts/Vanishing Gradient Problem.md",

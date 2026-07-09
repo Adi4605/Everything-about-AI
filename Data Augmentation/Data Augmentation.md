@@ -1,1 +1,1 @@
-- 
+- Data augmentation creates new training data from existing data by applying transformations such as rotation, flipping, cropping or adding noise.
