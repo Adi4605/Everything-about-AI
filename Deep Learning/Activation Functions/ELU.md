@@ -13,5 +13,4 @@ It introduces an exponential curve for negative values instead of making them co
 
 Formula of ELU:
 ![[Pasted image 20260507173526.png]]
-
 ![[Pasted image 20260507173745.png]]
