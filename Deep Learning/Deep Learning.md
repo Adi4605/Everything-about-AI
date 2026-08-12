@@ -1,4 +1,3 @@
-
 Deep learning, a subfield of AI, uses neural networks inspired by the human brain to process large data.
 
 **[[Artificial Neural Networks]]**: Deep learning algorithms are inspired by the structure and functioning of the human brain. 
