@@ -32,5 +32,4 @@ Disadvantages:
 - Higher memory usage
 - Less interpretable
 
-
 - Out-of-Bag (OOB) Error: Some data samples are not selected during bootstrap sampling.
