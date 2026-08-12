@@ -10,7 +10,6 @@ Fully connected layers
 
 ![[Pasted image 20260105143711.png]]
 
-
 ![[Pasted image 20260105143031.png]]
 
 The dimension of the convoluted matrix depends on the size of the sliding window.
