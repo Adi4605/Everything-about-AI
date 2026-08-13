@@ -24,5 +24,4 @@ Derivative of Swish :
 f′(x)=σ(x)+xσ(x)(1−σ(x))
 - Smooth 
 - Helps stable gradient flow
-
 ![[Pasted image 20260515171925.png|421]]
