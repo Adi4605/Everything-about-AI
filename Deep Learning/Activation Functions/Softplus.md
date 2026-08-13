@@ -14,6 +14,5 @@ where:
 - e = Euler’s number
 - ln⁡ = natural logarithm
 - x = input
-
 ![[Pasted image 20260509135343.png|433]]
 
