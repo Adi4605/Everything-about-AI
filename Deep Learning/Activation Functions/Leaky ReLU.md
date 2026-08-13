@@ -12,5 +12,4 @@ Formula:
 where:
 - x = input
 - a = small constant (Typically a=0.01)
-
 ![[Pasted image 20260524184252.png|404]]
