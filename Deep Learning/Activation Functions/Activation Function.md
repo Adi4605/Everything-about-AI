@@ -15,4 +15,3 @@ Types of Activation Function:
 12. [[Swish]]: Uses sigmoid function to improve gradient flow and model performance compared to ReLU.
 13. [[Mish]]: It is designed to improve gradient flow, training stability and performance in deep neural networks.
 14. [[GELU]]: It is used extensively in transformer-based deep learning models for improved gradient flow and performance.
-15. 
