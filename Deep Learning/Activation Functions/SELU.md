@@ -18,5 +18,4 @@
 
 Formula of SELU:
 ![[Pasted image 20260507174646.png]]
-
 ![[Pasted image 20260507174815.png|442]]
