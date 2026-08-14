@@ -1,5 +1,4 @@
 AI uses several techniques to stimulate intelligence.
-
 1. [[Search Algorithms]] : Used to find solutions.
 2. [[Knowledge Representation]] : How information is stored in AI systems.
 3. [[Expert Systems]] : AI systems that mimic human experts.
