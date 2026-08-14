@@ -2,7 +2,7 @@
  ANNs use artificial neurons to analyze data, identify patterns and make predictions.
  These networks consist of layers of interconnected neurons that work together to solve complex problems.
  ![[Pasted image 20260102134620.png]]
-
+ 
 Components of ANN
 - **Input Layer** :  Data such as an image, text or number is fed into the network through the input layer.
 - **Hidden Layers** : Each neuron in the hidden layers performs some calculation on the input, passing the result to the next layer. The data is transformed and abstracted at each layer.
