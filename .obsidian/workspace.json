@@ -216,8 +216,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "94a70e5be51cfe74",
+  "active": "5ca81bf46c9230e1",
   "lastOpenFiles": [
+    "Codes/Naive_Bayes.ipynb",
+    "Databases/titanic.csv",
     "Artificial Intelligence/AI Techniques.md",
     "Artificial Intelligence/Artificial Intelligence.md",
     "Deep Learning/Activation Functions/Activation Function.md",
@@ -243,7 +245,6 @@
     "Machine Learning/Supervised Learning/Basic Concepts/Specificity.md",
     "Machine Learning/Supervised Learning/Basic Concepts/Laplace Smoothing.md",
     "Deep Learning/Activation Functions/Mish.md",
-    "README.md",
     "Data Augmentation",
     "Deep Learning/Images/Pasted image 20260615172537.png",
     "Deep Learning/Images/Pasted image 20260615170319.png",
@@ -262,7 +263,6 @@
     "Machine Learning/Reinforcement Learning",
     "Machine Learning/Transfer Learning",
     "Databases/diabetes.csv",
-    "Codes/Decision_Trees.ipynb",
-    "Databases/green_tech_data.csv"
+    "Codes/Decision_Trees.ipynb"
   ]
 }
