@@ -14,11 +14,9 @@ Working:
 4. Predict probability for new data
 5. Convert probability -> class using threshold
 
-
 Changing threshold affects:
 - High threshold = High precision, low recall
 - Low threshold = High recall, low precision
-
 
 Binary Classification uses:
 - Log Loss (Binary Cross-Entropy)
