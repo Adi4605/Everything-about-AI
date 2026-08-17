@@ -3,7 +3,6 @@ It's also know as **Strong AI**.
 
 What an AI needs to become AGI : 
 ![[Pasted image 20260102211752.png]]
-
 Characteristics:
 1. **Versatility** : Transcends the limitations of Narrow AI by excelling at multiple tasks.
 2. **Adaptability** : Learn from past experiences and apply that knowledge to unfamiliar scenarios.
