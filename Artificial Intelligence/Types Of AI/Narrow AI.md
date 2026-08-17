@@ -8,7 +8,6 @@ Characteristics of Narrow AI :
 3. **Lack of Self-Awareness** : Do not posses consciousness of self-awareness.
 4. **Reactive Nature** : Reacts to the specific inputs based on their training.
 5. **Task-optimization** : Optimized for efficiency and accuracy in a particular domain.
-
 ![[Pasted image 20260316183645.png|356]]
 
 Examples: 
