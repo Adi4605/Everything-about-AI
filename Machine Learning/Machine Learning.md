@@ -6,9 +6,7 @@ Allows computers to learn from data and improve their performance automatically 
 ***Input Data + Output -> Model (Learns Rules)***
 Then 
 ***New Data + Model -> Prediction***
-
 ![[Pasted image 20260102223604.png|463]]
-
 Machine Learning Workflow: 
 1. **Data Collection** : Gather data from sources like databases, sensors, APIs, Websites, etc.
 2. **Data Processing** : Raw Data is cleaned and prepared
@@ -21,7 +19,6 @@ Machine Learning Workflow:
 5. **Model Training** : Train the algorithm using training data.
 6. **Model Evaluation** : Check performance of the model.
 7. **Model Deployment** : Deploy the model to real applications.
-
 
 Types of Machine Learning : 
 8. [[Supervised Learning]]
