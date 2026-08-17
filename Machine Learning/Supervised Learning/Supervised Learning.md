@@ -1,7 +1,6 @@
 In Supervised Learning, model learns from labelled data - meaning every input has a corresponding correct output. 
 The model make predictions and compares them with the true outputs, adjusting itself to reduce errors and improve accuracy over time.
 The goal to make accurate prediction on new, unseen data.
-
 ![[Pasted image 20260316200817.png|546]]
 
 Types of Supervised Learning : 
