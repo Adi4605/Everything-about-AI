@@ -2,8 +2,7 @@
 
 It is a field of computer science focused on creating systems capable of performing tasks that typically require human intelligence.
 It enables machines to understand, reason, learn and respond intelligently to various types of inputs.
-AI systems can simulate human-like cognitive functions such as perception, decision-making, problem solving and even creativity, it is done using multiple [[AI Techniques]].
-
+	AI systems can simulate human-like cognitive functions such as perception, decision-making, problem solving and even creativity, it is done using multiple [[AI Techniques]].
 [[History of AI]] is quite interesting.
 
 These tasks include:
