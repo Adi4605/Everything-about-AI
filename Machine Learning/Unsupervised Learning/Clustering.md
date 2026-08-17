@@ -13,7 +13,6 @@ Evaluation Techniques:
 • [[Silhouette Score]]
 • [[Adjusted Rand Index (ARI)]] 
 • [[Normalized Mutual Information (NMI)]]
-
 ![[Pasted image 20260101120217.png]]
 
 Types of Clustering: 
