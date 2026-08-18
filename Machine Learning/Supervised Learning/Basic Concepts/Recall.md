@@ -16,7 +16,6 @@ Recall in Multi-class Classification
 	- Micro recall
 	- Weighted recall
 
-
 Related terms:
 - Sensitivity = Recall
 - True Positive Rate (TPR) = Recall
