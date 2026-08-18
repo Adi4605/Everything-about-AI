@@ -7,4 +7,4 @@ Working of Bagging:
 2. Train Models: Train one model on each sample
 3. Make Predictions: Each model predicts independently
 4. Aggregate Predictions: For Classification - Majority Voting 
-					For Regression - Average
+					 For Regression - Average
