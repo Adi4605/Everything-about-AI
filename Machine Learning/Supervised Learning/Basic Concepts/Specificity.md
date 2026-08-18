@@ -17,7 +17,6 @@ Relationship with False Positive Rate
 ***FPR = 1 - Specificity***
 - If Specificity is high -> FPR is low
 
-
 Key Points:
 - Measures correct identification of negatives
 - Opposite of false positive rate
