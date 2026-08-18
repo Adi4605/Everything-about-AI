@@ -10,10 +10,8 @@ Why do we need F1 score?
 	- Recall is high, but precision is low
 	- Accuracy alone cannot capture this balance
 
-
 High F1 -> Good precision + Good recall
 Low F1 -> Poor performance in one or both
-
 
 F1 uses Harmonic Mean, not average:
 Because:
@@ -33,7 +31,6 @@ Calculated using:
 	- Useful for imbalanced data
 3. Weighted F1
 	- Weighted by class frequency
-
 
 Key Points:
 - F1 = Harmonic mean of precision and recall
