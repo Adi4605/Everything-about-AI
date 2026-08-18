@@ -32,7 +32,6 @@ Low FPR (close to 0)
 
 **"Probability that the model ranks a random positive sample higher than a random negative sample."**
 
-
 Key Points:
 - ROC curve plots TPR vs FPR
 - AUC = Area under ROC curve
