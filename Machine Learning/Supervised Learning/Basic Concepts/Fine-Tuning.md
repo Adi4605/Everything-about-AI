@@ -19,7 +19,6 @@ Fine-Tuning
       ↓
 Specialized Model
 
-
 Types:
 1. Full Fine-Tuning: Trains all model parameters.
 2. Partial Fine-Tuning: Freeze some layers and train only a few.
