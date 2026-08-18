@@ -1,7 +1,6 @@
 A **Confusion Matrix** is a table used to evaluate the performance of a classification model by comparing Actual Values vs Predicted Values.
 
 ![[Pasted image 20260325195219.png]]
-
 1. True Positive (TP):
 	- Model correctly predicts positive
 	- Example: Sick person -> predicted as sick
@@ -14,7 +13,6 @@ A **Confusion Matrix** is a table used to evaluate the performance of a classifi
 4. False Negative (FN):
 	- Model predicts negative, but actually positive
 	- Example: Sick person -> predicted as Healthy
-
 
 Key Points:
 - Confusion matrix = comparison table
