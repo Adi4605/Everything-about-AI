@@ -5,6 +5,7 @@
 Formula:
 ![[Pasted image 20260819112525.png]]
 ![[Pasted image 20260819112538.png]]
+
 ![[Pasted image 20260819112908.png]]
 - Slope b1 tells how much the predicted target changes when x increase by one unit
 - Residual : Difference between the actual value and predicted value

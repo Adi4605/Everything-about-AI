@@ -76,13 +76,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4fc35b19b56205b4",
@@ -218,7 +216,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "94a70e5be51cfe74",
+  "active": "5ca81bf46c9230e1",
   "lastOpenFiles": [
     "Machine Learning/Supervised Learning/Images/Pasted image 20260819113312.png",
     "Machine Learning/Supervised Learning/Images/Pasted image 20260819113054.png",
