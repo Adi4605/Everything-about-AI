@@ -9,7 +9,6 @@ Components:
 3. State (S) : Current situation of the environment.
 4. Action (A) : What the agents can do.
 5. Reward (R) : Feedback received after action.
-
 ![[Pasted image 20260603163153.png]]
 
 Important aspects in Reinforcement Learning:
