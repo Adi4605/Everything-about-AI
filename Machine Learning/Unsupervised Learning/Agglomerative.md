@@ -1,5 +1,4 @@
 A "bottom-up" hierarchical clustering method.
-
 Starts with each data point as its own cluster, then iteratively merges the two closest clusters until only one large cluster remains, forming a hierarchy often visualized with a dendrogram.
 
 It uses distance metrics (like Euclidean) and linkage criteria (like single, complete, Ward) to determine similarity, allowing for flexible cluster numbers and easy visualization of data relationships without pre-specifying k.
