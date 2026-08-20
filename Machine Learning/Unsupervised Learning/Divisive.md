@@ -1,5 +1,4 @@
 A "Top-down" hierarchical clustering method.
-
 It starts by placing all data points into one large cluster and then recursively splits that cluster into smaller ones based on differences or distances between the points.
 
 Working:
