@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Unsupervised Learning/Agglomerative.md",
+                "file": "Machine Learning/Unsupervised Learning/Clustering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Agglomerative"
+              "title": "Clustering"
             }
           }
         ]
@@ -218,6 +218,7 @@
   },
   "active": "94a70e5be51cfe74",
   "lastOpenFiles": [
+    "Machine Learning/Unsupervised Learning/Agglomerative.md",
     "Machine Learning/Unsupervised Learning/Adjusted Rand Index (ARI).md",
     "Machine Learning/Reinforcement Learning/Reinforcement Learning.md",
     "Data Augmentation/Data Augmentation.md",
@@ -249,7 +250,6 @@
     "Machine Learning/Supervised Learning/Basic Concepts/Catastrophic Forgetting.md",
     "Machine Learning/Supervised Learning/Basic Concepts/Bagging.md",
     "Machine Learning/Unsupervised Learning/Normalized Mutual Information (NMI).md",
-    "Machine Learning/Unsupervised Learning/Clustering.md",
     "Codes/K_Nearest_Neighbors.ipynb",
     "Databases/Social_Network_Ads.csv",
     "Databases/socail networks ads.zip",
