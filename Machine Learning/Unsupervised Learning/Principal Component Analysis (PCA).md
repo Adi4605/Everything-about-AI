@@ -1,7 +1,5 @@
 It transforms the data into a set of linearly uncorrelated variables called principal components.
-
 These components are ordered by the amount of variance they explain, with the first few components capturing the majority of the data's variance.
-
 PCA works by identifying the directions (principal components) in which the data varies the most
 
 Working Of PCA:
