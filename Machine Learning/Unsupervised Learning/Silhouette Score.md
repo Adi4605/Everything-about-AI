@@ -6,7 +6,6 @@ Ranging from -1 to +1:
 
 It balances intra-cluster cohesion (compactness) and inter-cluster separation, helping to find the optimal number of clusters by assessing cluster quality.
 Formula = ![[Pasted image 20260101112209.png]]
-
 where: 
 • a(i) is the average distance between point i and all other points in the same cluster (intra-cluster distance). 
 • b(i) is the minimum average distance from point i to all points in the nearest neighboring cluster (inter-cluster distance).
