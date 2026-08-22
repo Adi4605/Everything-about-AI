@@ -1,4 +1,4 @@
-	The main goal of K-means clustering is to minimize the sum of squared distances between each data point and the centroid of its assigned cluster.
+The main goal of K-means clustering is to minimize the sum of squared distances between each data point and the centroid of its assigned cluster.
 
 Cost Function = ![[Pasted image 20260101101719.png]]
 where,
@@ -15,5 +15,4 @@ Implementation of k-means Clustering:
 • Fitting K-Means with Optimal k 
 • Evaluating the Clustering Performance 
 • Visualize Cluster
-
 ![[Pasted image 20260101115840.png]]
