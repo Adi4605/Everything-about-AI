@@ -26,14 +26,24 @@ Key Concepts:
 5. [[Regularization]]
 6. [[Evaluation Metrics]]
 
-Regression Workflow:
-1. Collect Data
-2. Clean Data
-3. Handle Missing Values
-4. Feature Engineering
-5. Split Data
-6. Train Model
-7. Evaluate Model
-8. Tune Hyperparameters
-9. Deploy Model
-10. Monitor Performance
+**Regression Workflow:**
+
+Collect Data
+	 ↓
+Clean Data
+	 ↓
+Handle Missing Values
+	 ↓
+Feature Engineering
+	 ↓
+Split Data
+	 ↓
+Train Model
+	 ↓
+Evaluate Model
+	 ↓
+Tune Hyperparameters
+	 ↓
+Deploy Model
+	 ↓
+Monitor Performance
