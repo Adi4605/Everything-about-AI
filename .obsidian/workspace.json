@@ -111,16 +111,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Support Vector Regression.md",
+                "file": "Machine Learning/Supervised Learning/Regression/Algorithms/Support Vector Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Support Vector Regression"
             }
+          },
+          {
+            "id": "08402b996b5705c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning/Supervised Learning/Regression/Algorithms/Polynomial Regression.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Polynomial Regression"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -179,8 +193,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "right": {
     "id": "4fc35b19b56205b4",
@@ -316,26 +329,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2a8e0ac313f44e38",
+  "active": "5ca81bf46c9230e1",
   "lastOpenFiles": [
-    "Machine Learning/Supervised Learning/Regression/Algorithms/Stepwise Regression.md",
-    "Support Vector Regression.md",
-    "Pasted image 20260824191651.png",
-    "Pasted image 20260824191308.png",
-    "Pasted image 20260824191248.png",
-    "Pasted image 20260824191222.png",
-    "Pasted image 20260824191151.png",
-    "Pasted image 20260824191131.png",
-    "README.md",
+    "Machine Learning/Supervised Learning/Images/Pasted image 20260824193515.png",
+    "Machine Learning/Supervised Learning/Images/Pasted image 20260824193354.png",
+    "Machine Learning/Supervised Learning/Images/Pasted image 20260824191651.png",
+    "Pasted image 20260824193240.png",
+    "Pasted image 20260824193309.png",
+    "Machine Learning/Supervised Learning/Regression/Algorithms/Polynomial Regression.md",
+    "Pasted image 20260824193343.png",
     "Machine Learning/Supervised Learning/Regression/Regression.md",
+    "Machine Learning/Supervised Learning/Regression/Algorithms/Support Vector Regression.md",
+    "Machine Learning/Supervised Learning/Regression/Algorithms/Stepwise Regression.md",
+    "Machine Learning/Supervised Learning/Images/Pasted image 20260824191308.png",
+    "Machine Learning/Supervised Learning/Images/Pasted image 20260824191248.png",
+    "Machine Learning/Supervised Learning/Images/Pasted image 20260824191222.png",
+    "Machine Learning/Supervised Learning/Images/Pasted image 20260824191151.png",
+    "Machine Learning/Supervised Learning/Images/Pasted image 20260824191131.png",
+    "README.md",
     "Machine Learning/Supervised Learning/Regression/Algorithms/Elastic Net Regression.md",
-    "Machine Learning/Supervised Learning/Images/Pasted image 20260824181633.png",
-    "Machine Learning/Supervised Learning/Images/Pasted image 20260824181615.png",
-    "Machine Learning/Supervised Learning/Images/Pasted image 20260824181545.png",
     "Machine Learning/Supervised Learning/Regression/Algorithms/Ridge Regression.md",
     "Machine Learning/Supervised Learning/Regression/Algorithms/Lasso Regression.md",
     "Machine Learning/Supervised Learning/Regression/Algorithms/Linear Regression.md",
-    "Machine Learning/Supervised Learning/Images/Pasted image 20260824174125.png",
     "Machine Learning/Supervised Learning/Regression/Algorithms/Bayesian Linear Regression.md",
     "Machine Learning/Supervised Learning/Regression/Algorithms/Multiple Linear Regression.md",
     "Deep Learning/Basic Concepts/Bias-Variance Tradeoff.md",
@@ -359,7 +374,6 @@
     "Machine Learning/Unsupervised Learning/Clustering/Evaluation Techniques/Adjusted Rand Index (ARI).md",
     "Machine Learning/Unsupervised Learning/Clustering",
     "Machine Learning/Unsupervised Learning/Basic Concepts/Unlabeled data.md",
-    "Machine Learning/Unsupervised Learning/Covariance Matrix.md",
     "Machine Learning/Supervised Learning/Regression/Algorithms",
     "Codes/K_Nearest_Neighbors.ipynb",
     "Databases/Social_Network_Ads.csv"
