@@ -28,4 +28,23 @@ Some Coefficients Become Zero
 - Lasso is optimized using algorithms like:
 	1. [[Coordinate Descent]]
 	2. [[LARS]] (Least Angle Regression)
-	3. Proximal Gradient Methods
+	3. [[Proximal Gradient Methods]]
+
+Simplified:
+                  LASSO REGRESSION
+                         ↓
+                 Linear Regression
+                         ↓
+                  Add L1 Penalty
+                         ↓
+                 λ × Σ|Coefficient|
+                         ↓
+	              Shrink Coefficients
+                         ↓
+	          Some Coefficients Become 0
+                         ↓
+	               Feature Selection
+                         ↓
+                Reduced Model Complexity
+                         ↓
+	               Less Overfitting

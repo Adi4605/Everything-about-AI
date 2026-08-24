@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Supervised Learning/Regression/Regression.md",
+                "file": "Machine Learning/Supervised Learning/Regression/Algorithms/Linear Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Regression"
+              "title": "Linear Regression"
             }
           },
           {
@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -274,7 +274,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e40411996a7f9cbf",
+  "active": "f4f4bc668692fdf8",
   "lastOpenFiles": [
     "Machine Learning/Supervised Learning/Regression/Algorithms/Linear Regression.md",
     "Machine Learning/Supervised Learning/Regression/Regression.md",
