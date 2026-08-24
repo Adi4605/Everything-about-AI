@@ -33,4 +33,18 @@ Find coefficients that minimize the objective
 - For standardized features and appropriate matrix formulation, Ridge has a closed-form solutions:
 	![[Pasted image 20260824172417.png]]
 	![[Pasted image 20260824172430.png]]
-	
+
+Simplified:
+RIDGE REGRESSION
+      ↓
+   Linear Regression
+      ↓
+  Add L2 Penalty
+      ↓
+λ × Σ(coefficient²)
+      ↓
+Shrink Large Weights
+      ↓
+Reduce Overfitting & Multicollinearity
+      ↓
+Better Generalization

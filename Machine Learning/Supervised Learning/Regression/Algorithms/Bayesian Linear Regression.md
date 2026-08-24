@@ -7,18 +7,8 @@
 
 **Start with a prior belief, update it using observed data, and obtain a posterior belief.**
 
-Bayesian Linear Regression Follows:
-Prior Belief
-     ↓
-Observe Data
-     ↓
-Bayes' Theorem
-     ↓
-Posterior Distribution
-     ↓
-Predictions
-     ↓
-Predictive Distribution
+**Working:**
+
 
 - Prior Belief -> initial assumption or probability about something before you see a new evidence
 - Posterior Belief -> updated probability after you factor in that new data
@@ -28,3 +18,25 @@ Predictive Distribution
 	For common conjugate Bayesian Linear Regression, the posterior of β is Gaussian:
 		![[Pasted image 20260824165833.png]]
 		![[Pasted image 20260824165848.png]]
+
+
+Simplified:
+BAYESIAN LINEAR REGRESSION
+     ↓
+Linear Model
+     ↓
+Parameters treated as Random Variables
+     ↓
+Choose Prior
+     ↓
+Observe Data
+     ↓
+Likelihood
+     ↓
+Bayes' Theorem
+     ↓
+Posterior Distribution
+     ↓
+Prediction Distribution
+     ↓
+Prediction + Uncertainty
