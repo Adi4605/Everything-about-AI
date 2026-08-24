@@ -26,9 +26,5 @@ Learn Coefficients
      ↓
 Use Coefficients for Prediction
 
-Evaluation Metrics Used are:
-1. [[MAE]]
-2. [[MSE]]
-3. [[RMSE]]
-4. [[R2 Score]]
+
 

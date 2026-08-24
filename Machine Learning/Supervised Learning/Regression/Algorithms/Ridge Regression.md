@@ -11,14 +11,14 @@ Formula:
 ![[Pasted image 20260824171313.png]]
 ![[Pasted image 20260824171327.png]]
 
-- **L2 Regularization** -> Adds the squared value of the weights as a penalty. It shrinks weights close to zero but does not set them to exact zero.
+- **L2 Regularization** -> Adds the squared value of the weights as a penalty. It **shrinks weights close to zero but does not set them to exact zero.**
 	![[Pasted image 20260824171433.png]]
 	- λ is a hyperparameter which controls how strongly Ridge penalizes large coefficients.
 
 **Working:**
 Start with training data
 		 ↓
-Calculate predictions
+   Calculate predictions
 		 ↓
 Calculate prediction error
 		 ↓

@@ -49,3 +49,14 @@ Tune Hyperparameters
 Deploy Model
 	 ↓
 Monitor Performance
+
+Evaluation Metrics Used are:
+1. [[MAE]]
+2. [[MSE]]
+3. [[RMSE]]
+4. [[R2 Score]]
+5. [[Adjusted R2]]
+
+Validation and Error Analysis Techniques:
+1. [[Residual Plot Analysis]]
+2. [[Cross-Validation]]
