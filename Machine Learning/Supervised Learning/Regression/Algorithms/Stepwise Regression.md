@@ -69,7 +69,7 @@ How does Stepwise Regression Decide which Feature to Add or Remove:
 2. R²
 3. Adjusted R²
 4. AIC (Akaike Information Criterion)
-5.  BIC (Bayesian Information Criterion)
+5. BIC (Bayesian Information Criterion)
 6. Cross-validation error
 
 
