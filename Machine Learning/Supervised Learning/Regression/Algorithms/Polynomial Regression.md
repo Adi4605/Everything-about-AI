@@ -24,7 +24,7 @@ Make Predictions
 Evaluate Model
 
 - Degree is a hyperparameter
-- Evaluated using validation/cross-validation
+- Evaluated using validation/[[Cross-Validation]]
 - [[Feature Explosion]] can happen
 
 Simplified:

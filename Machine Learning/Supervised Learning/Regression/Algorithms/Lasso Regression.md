@@ -1,5 +1,5 @@
 - Lasso -> Least Absolute Shrinkage and Selection Operator
-- Regularized version of Linear Regression that uses L1 regularization to reduce overfitting and control large model coefficients and performs automatic feature selection
+- Regularized version of Linear Regression that uses L1 [[Regularization]] to reduce [[Overfitting]], control large model coefficients and performs automatic feature selection
 - Linear regression with an L1 penalty **shrinks coefficients toward zero and can make some coefficients exactly zero**.
 - It produces a [[Sparse Model]]
 

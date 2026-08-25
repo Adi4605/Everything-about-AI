@@ -1,7 +1,7 @@
 - Supervised machine learning algorithm used to predict a continuous numerical value
 - It is an [[Ensemble Method]] that combines the predictions of many Decision Tree Regressors to produce a more accurate and stable prediction.
 
-**Random Forest Regression builds many decision trees using different trees using different random samples and subsets of features, and combines their predictions-usually by averaging them-to obtain the final prediction.**
+**Random Forest Regression builds many decision trees using different random samples and subsets of features, and combines their predictions-usually by averaging them-to obtain the final prediction.**
 
 **Working:**
                    Dataset
@@ -24,7 +24,7 @@
            MAE / RMSE / R² Evaluation
 
 - Uses the concept of [[Bagging]] (Bootstrap Aggregating)
-- Bootstrap Sampling -> Sampling with replacement
+- [[Bootstrap Sampling]] -> Sampling with replacement
 
 Important Hyperparameters:
 1. `n_estimators`

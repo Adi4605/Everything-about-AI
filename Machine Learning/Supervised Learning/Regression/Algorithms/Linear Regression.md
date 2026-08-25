@@ -3,9 +3,9 @@
 - Finds the best-fit straight line through the data so that it can predict the value of a continuous target
 - It assumes a linear relationship between the features and the target
 Formula:
-![[Pasted image 20260819112525.png]]
-![[Pasted image 20260819112538.png]]
-![[Pasted image 20260819112908.png]]
+	![[Pasted image 20260819112525.png]]
+	![[Pasted image 20260819112538.png]]
+	![[Pasted image 20260819112908.png]]
 - Slope b1 tells how much the predicted target changes when x increase by one unit
 - Residual : Difference between the actual value and predicted value
  ![[Pasted image 20260819113054.png]]

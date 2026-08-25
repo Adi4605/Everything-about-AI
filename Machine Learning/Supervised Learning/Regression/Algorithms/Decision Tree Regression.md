@@ -34,7 +34,7 @@ Workflow:
                  ↓
              Prediction
                  ↓
-       Evaluate Model
+	       Evaluate Model
 
 The tree can stop based on conditions such as:
 - Maximum depth reached

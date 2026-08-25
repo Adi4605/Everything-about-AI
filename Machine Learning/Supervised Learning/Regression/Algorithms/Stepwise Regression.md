@@ -91,4 +91,4 @@ Simplified:
                    ↓
              Final Feature Set
 
-Stepwise Regression is not another type of regularization like [[Ridge Regression]] or [[Lasso Regression]]. It is a feature-selection strategy that builds a regression model by sequentially adding and/or removing predictors according to a chosen criterion.
+Stepwise Regression is not another type of [[Regularization]] like [[Ridge Regression]] or [[Lasso Regression]]. It is a feature-selection strategy that builds a regression model by sequentially adding and/or removing predictors according to a chosen criterion.

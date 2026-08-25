@@ -1,4 +1,4 @@
-- Regularized version of Linear Regression that uses L2 regularization to reduce overfitting and control large model coefficients.
+- Regularized version of Linear Regression that uses L2 [[Regularization]] to reduce [[Overfitting]] and control large model coefficients.
 - Linear regression with an L2 penalty added to the loss function, which discourages large coefficients and improves model stability.
 
 It is especially useful when:
@@ -45,6 +45,6 @@ RIDGE REGRESSION
       ↓
 Shrink Large Weights
       ↓
-Reduce Overfitting & Multicollinearity
+Reduce Overfitting & [[Multicollinearity]]
       ↓
 Better Generalization

@@ -1,5 +1,5 @@
 - Regularized version of Linear Regression that **combines L1 regularization from Lasso and L2 regularization from Ridge**.
-- Combines Ridge and Lasso regularization to reduce overfitting, control large coefficients and perform feature selection.
+- Combines Ridge and Lasso regularization to reduce [[Overfitting]], control large coefficients and perform feature selection.
 
 It is especially useful when:
 - You have many features
@@ -39,7 +39,7 @@ Simplified:
                      ↓
               Linear Regression
                      ↓
-              Add Regularization
+              Add [[Regularization]]
                   ↙       ↘
                 L1           L2
                 ↓              ↓
@@ -51,4 +51,4 @@ Simplified:
                      ↓
                Some → Exactly 0
                      ↓
-       Reduce Overfitting + Multicollinearity
+       Reduce Overfitting + [[Multicollinearity]]

@@ -12,9 +12,9 @@
                ↓
         Define Linear Model
                ↓
-         Choose Prior
+          Choose Prior
                ↓
-       Define Likelihood
+        Define Likelihood
                ↓
       Perform Bayesian Inference
                ↓
