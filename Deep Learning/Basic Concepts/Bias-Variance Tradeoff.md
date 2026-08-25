@@ -36,5 +36,4 @@ Scenario 4: High Bias + High Variance (Worst Fit)
 - Testing performance is poor
 - Predictions are inconsistent
 
-
 ![[Pasted image 20260612170210.png]]
