@@ -16,7 +16,7 @@ Causes:
 - Long training time 
 - Lack of Regularization
 
-Techniques to prevent Overfitting
+Techniques to reduce Overfitting
 1. More training data
 2. [[Data Augmentation]]
 3. Feature selection
@@ -26,3 +26,4 @@ Techniques to prevent Overfitting
 7. Early Stopping
 8. [[Pruning]]
 9. [[Ensemble Methods]]
+10. [[Cross-Validation]]
