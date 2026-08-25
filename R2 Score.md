@@ -1,2 +1,0 @@
-- Coefficient of Determination
-- Measures how well a regression model explains the variation in the target variable.
