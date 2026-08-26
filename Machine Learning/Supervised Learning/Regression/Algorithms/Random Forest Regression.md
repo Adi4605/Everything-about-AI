@@ -37,18 +37,18 @@ Important Hyperparameters:
 8. `criterion`
 
 Simplified:
-             RANDOM FOREST REGRESSION
-                         ↓
-                  Original Dataset
-                         ↓
-	               Bootstrap Sampling
-                         ↓
-	              Multiple Decision Trees
-                         ↓
-		       Random Feature Selection at Splits
-                         ↓
-	             Each Tree Makes Prediction
-                         ↓
-                  Average Predictions
-                         ↓
-	                Final Prediction
+RANDOM FOREST REGRESSION
+	    ↓
+   Original Dataset
+        ↓
+   Bootstrap Sampling
+        ↓
+ Multiple Decision Trees
+        ↓
+Random Feature Selection at Splits
+        ↓
+Each Tree Makes Prediction
+        ↓
+   Average Predictions
+        ↓
+    Final Prediction
