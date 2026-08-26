@@ -8,23 +8,23 @@
 **Start with a prior belief, update it using observed data, and obtain a posterior belief.**
 
 **Working:**
-             Data
-               ↓
-        Define Linear Model
-               ↓
-          Choose Prior
-               ↓
-        Define Likelihood
-               ↓
-      Perform Bayesian Inference
-               ↓
-      Obtain Posterior Distribution
-               ↓
-      Estimate Parameters
-               ↓
-     Predictive Distribution
-               ↓
-     Prediction + Uncertainty
+	     Data
+           ↓
+    Define Linear Model
+           ↓
+     Choose Prior
+           ↓
+    Define Likelihood
+          ↓
+Perform Bayesian Inference
+          ↓
+Obtain Posterior Distribution
+         ↓
+   Estimate Parameters
+         ↓
+  Predictive Distribution
+        ↓
+Prediction + Uncertainty
 
 - Prior Belief -> initial assumption or probability about something before you see a new evidence
 - Posterior Belief -> updated probability after you factor in that new data

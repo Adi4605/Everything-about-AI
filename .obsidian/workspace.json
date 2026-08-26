@@ -8,34 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e40411996a7f9cbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Supervised Learning/Regression/Algorithms/Linear Regression.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linear Regression"
-            }
-          },
-          {
-            "id": "94a70e5be51cfe74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Machine Learning/Supervised Learning/Regression/Algorithms/Multiple Linear Regression.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Multiple Linear Regression"
-            }
-          },
-          {
             "id": "91e1f4269cc50658",
             "type": "leaf",
             "state": {
@@ -175,8 +147,7 @@
               "title": "Regression"
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,8 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "right": {
     "id": "4fc35b19b56205b4",
@@ -372,13 +342,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dd230a8d5d3354b9",
+  "active": "5ca81bf46c9230e1",
   "lastOpenFiles": [
-    "Machine Learning/Supervised Learning/Regression/Evaluation Metrics/Adjusted R2.md",
-    "Pasted image 20260825115945.png",
-    "Pasted image 20260825115859.png",
-    "Pasted image 20260825115848.png",
+    "Machine Learning/Supervised Learning/Regression/Algorithms/Multiple Linear Regression.md",
+    "Machine Learning/Supervised Learning/Regression/Algorithms/Linear Regression.md",
     "Machine Learning/Supervised Learning/Regression/Regression.md",
+    "Machine Learning/Supervised Learning/Regression/Evaluation Metrics/Adjusted R2.md",
+    "Machine Learning/Supervised Learning/Images/Pasted image 20260825115945.png",
+    "Machine Learning/Supervised Learning/Images/Pasted image 20260825115859.png",
+    "Machine Learning/Supervised Learning/Images/Pasted image 20260825115848.png",
     "Machine Learning/Supervised Learning/Regression/Evaluation Metrics/R2 Score.md",
     "Machine Learning/Supervised Learning/Images/Pasted image 20260825115217.png",
     "Machine Learning/Supervised Learning/Images/Pasted image 20260825115150.png",
@@ -400,8 +372,6 @@
     "Machine Learning/Supervised Learning/Regression/Algorithms/Decision Tree Regression.md",
     "Deep Learning/Gradient Descent.md",
     "Machine Learning/Supervised Learning/Regression/Algorithms/Bayesian Linear Regression.md",
-    "Machine Learning/Supervised Learning/Regression/Algorithms/Multiple Linear Regression.md",
-    "Machine Learning/Supervised Learning/Regression/Algorithms/Linear Regression.md",
     "Deep Learning/Basic Concepts/Overfitting.md",
     "Deep Learning/Basic Concepts/Underfitting.md",
     "Deep Learning/Basic Concepts/Bias-Variance Tradeoff.md",
