@@ -28,18 +28,18 @@ Evaluate Model
 - [[Feature Explosion]] can happen
 
 Simplified:
-              POLYNOMIAL REGRESSION
-                       ↓
-                  Start with X
-                       ↓
-            Generate Polynomial Features
-                       ↓
-                X, X², X³, ... Xᵈ
-                       ↓
-              Apply Linear Regression
-                       ↓
-                Learn Coefficients
-                       ↓
-                Make Prediction
-                       ↓
-               Evaluate Performance
+  POLYNOMIAL REGRESSION
+		   ↓
+	  Start with X
+		   ↓
+Generate Polynomial Features
+		   ↓
+	X, X², X³, ... Xᵈ
+		   ↓
+  Apply Linear Regression
+		   ↓
+	Learn Coefficients
+		   ↓
+	Make Prediction
+		   ↓
+   Evaluate Performance
