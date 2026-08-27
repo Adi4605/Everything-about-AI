@@ -35,20 +35,20 @@ Some coefficients may become zero while other are shrunk
 - Elastic Net combines L1 and L2 regularization. The L1 component enables feature selection by making some coefficients exactly zero, while the L2 component improves stability when predictors are correlated.
 
 Simplified:
-                 ELASTIC NET
-                     ↓
-              Linear Regression
-                     ↓
-              Add [[Regularization]]
-                  ↙       ↘
-                L1           L2
-                ↓              ↓
-        Feature Selection    Stability
-                ↘             ↙
-                  Combined
-                     ↓
-               Shrink Coefficients
-                     ↓
-               Some → Exactly 0
-                     ↓
-       Reduce Overfitting + [[Multicollinearity]]
+			 ELASTIC NET
+				 ↓
+		  Linear Regression
+				 ↓
+		  Add [[Regularization]]
+			  ↙       ↘
+			L1           L2
+			↓              ↓
+	Feature Selection    Stability
+			↘             ↙
+			  Combined
+				 ↓
+		   Shrink Coefficients
+				 ↓
+		   Some → Exactly 0
+				 ↓
+   Reduce Overfitting + [[Multicollinearity]]
