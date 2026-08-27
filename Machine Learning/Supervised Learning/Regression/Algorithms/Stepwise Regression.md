@@ -4,27 +4,27 @@
 - Automatic variable-selection method that repeatedly adds or removes predictors to find a simpler regression model containing the most useful variables.
 
 **Working:**
-	            Dataset
-                   ↓
-             Data Preprocessing
-                   ↓
-             Train/Test Split
-                   ↓
-          Start Feature Selection
-                   ↓
-        ┌───────────┴───────────┐
-	    ↓                                          ↓
-     Add Feature           Remove Feature
-             ↓              ↓
-           Evaluate Model
-                ↓
-          Continue Selection
-                ↓
-             Final Features
-                ↓
-            Train Final Model
-                ↓
-             Test Model
+			Dataset
+			   ↓
+		 Data Preprocessing
+			   ↓
+		 Train/Test Split
+			   ↓
+	  Start Feature Selection
+			   ↓
+	┌───────────┴───────────┐
+	↓                                          ↓
+ Add Feature           Remove Feature
+		 ↓              ↓
+	   Evaluate Model
+			↓
+	  Continue Selection
+			↓
+		 Final Features
+			↓
+		Train Final Model
+			↓
+		 Test Model
 
 Types:
 1. Forward Selection :
