@@ -14,27 +14,27 @@ Components:
  ![[Pasted image 20260824195648.png]]
 
 Workflow:
-              Dataset
-                 ↓
-          Data Preprocessing
-                 ↓
-          Train/Test Split
-                 ↓
-       Choose Splitting Criterion
-                 ↓
-         Find Best Feature
-                 ↓
-          Split the Dataset
-                 ↓
-       Recursively Split Again
-                 ↓
-             Leaf Nodes
-                 ↓
-       Mean Target in Each Leaf
-                 ↓
-             Prediction
-                 ↓
-	       Evaluate Model
+    Dataset
+       ↓
+Data Preprocessing
+       ↓
+Train/Test Split
+       ↓
+Choose Splitting Criterion
+      ↓
+Find Best Feature
+      ↓
+ Split the Dataset
+      ↓
+Recursively Split Again
+      ↓
+   Leaf Nodes
+      ↓
+Mean Target in Each Leaf
+      ↓
+   Prediction
+      ↓
+ Evaluate Model
 
 The tree can stop based on conditions such as:
 - Maximum depth reached
@@ -54,22 +54,22 @@ Important Hyperparameters:
 7. `criterion`
 
 Simplified:
-          DECISION TREE REGRESSION
-                    ↓
-                Input Data
-                    ↓
-             Find Best Feature/Split
-                    ↓
-                 Split Data
-                  ↙       ↘
-               Group 1   Group 2
-                  ↓            ↓
-                Split       Split
-                  ↓            ↓
-                    ...
-                     ↓
-                 Leaf Nodes
-                     ↓
-               Mean Target Value
-                     ↓
-                 Prediction
+DECISION TREE REGRESSION
+          ↓
+       Input Data
+          ↓
+   Find Best Feature/Split
+          ↓
+       Split Data
+       ↙       ↘
+ Group 1   Group 2
+     ↓            ↓
+    Split       Split
+     ↓            ↓
+        ...
+         ↓
+    Leaf Nodes
+         ↓
+    Mean Target Value
+         ↓
+      Prediction
