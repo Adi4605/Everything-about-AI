@@ -31,20 +31,20 @@ Some Coefficients Become Zero
 	3. [[Proximal Gradient Methods]]
 
 Simplified:
-                  LASSO REGRESSION
-                         ↓
-                 Linear Regression
-                         ↓
-                  Add L1 Penalty
-                         ↓
-                 λ × Σ|Coefficient|
-                         ↓
-	              Shrink Coefficients
-                         ↓
-	          Some Coefficients Become 0
-                         ↓
-	               Feature Selection
-                         ↓
-                Reduced Model Complexity
-                         ↓
-	               Less Overfitting
+  LASSO REGRESSION
+		 ↓
+ Linear Regression
+		 ↓
+  Add L1 Penalty
+		 ↓
+ λ × Σ|Coefficient|
+		 ↓
+  Shrink Coefficients
+		 ↓
+Some Coefficients Become 0
+		 ↓
+   Feature Selection
+		 ↓
+Reduced Model Complexity
+		 ↓
+   Less Overfitting
