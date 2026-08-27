@@ -53,22 +53,22 @@ SVR Loss Function:
 	![[Pasted image 20260824191651.png]]
 
 Simplified:
-                 SUPPORT VECTOR REGRESSION
-                            ↓
-                    Continuous Target
-                            ↓
-                    Create ε-Tube
-                            ↓
-	              Errors within ε → No Penalty
-                            ↓
-	            Errors outside ε → Penalized
-                            ↓
-	                  Important Points
-                            ↓
-                    Support Vectors
-                            ↓
-	               C → Penalty Strength
-	               ε → Error Tolerance
-	               γ → Point Influence
-                            ↓
-                  Kernel for Nonlinearity
+ SUPPORT VECTOR REGRESSION
+			↓
+	Continuous Target
+			↓
+	Create ε-Tube
+			↓
+  Errors within ε → No Penalty
+			↓
+Errors outside ε → Penalized
+			↓
+	  Important Points
+			↓
+	Support Vectors
+			↓
+   C → Penalty Strength
+   ε → Error Tolerance
+   γ → Point Influence
+			↓
+  Kernel for Nonlinearity
