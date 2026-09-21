@@ -46,7 +46,7 @@ Evaluate Model
 	 ↓
 Tune Hyperparameters
 	 ↓
-Deploy Model
+ Deploy Model
 	 ↓
 Monitor Performance
 
