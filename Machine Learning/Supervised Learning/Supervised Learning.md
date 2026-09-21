@@ -3,13 +3,13 @@ The model make predictions and compares them with the true outputs, adjusting it
 The goal to make accurate prediction on new, unseen data.
 ![[Pasted image 20260316200817.png|546]]
 
-Types of Supervised Learning : 
+**Types of Supervised Learning :** 
 1. [[Classification]] : Where the output is categorical value.
 2. [[Regression]] : Where the output is continuous variable.
 
 While training the model, data is usually split in the ratio of 80:20 i.e. 80% is training data and rest is testing data. In training data we fill the input as well as output  for 80% data. The model learns from training data only.
 
-Working of Supervised Machine Learning :
+**Working of Supervised Machine Learning :**
 1. Collect Labeled Data : 
 	- Gather a dataset where each input has a known correct output.
 2. Split the Dataset :
