@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Unsupervised Learning/Basic Concepts/Cosine similarity.md",
+                "file": "Machine Learning/Unsupervised Learning/Basic Concepts/Dendrogram.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cosine similarity"
+              "title": "Dendrogram"
             }
           }
         ]
@@ -218,6 +218,7 @@
   },
   "active": "dd230a8d5d3354b9",
   "lastOpenFiles": [
+    "Machine Learning/Unsupervised Learning/Basic Concepts/Cosine similarity.md",
     "Machine Learning/Supervised Learning/Supervised Learning.md",
     "Machine Learning/Supervised Learning/Regression/Regression.md",
     "Machine Learning/Supervised Learning/Regression/Algorithms/Support Vector Regression.md",
