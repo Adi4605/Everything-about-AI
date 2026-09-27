@@ -1,10 +1,8 @@
 Measures the similarity between two non-zero vectors by calculating the cosine of the angle between them.
-
 Used in text analysis, document comparison, search queries, and recommendation systems.
 
 - Similarity measure calculates the distance between data objects based on their feature dimensions in a dataset.
 - A smaller distance indicates a higher similarity, while a larger distance indicates a lower similarity.
-
 The formula to find the cosine similarity between two vectors is -
 SC​(x, y) = x . y / ||x|| ×× ||y||
 
