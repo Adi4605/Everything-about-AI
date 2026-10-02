@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Unsupervised Learning/Clustering/Clustering.md",
+                "file": "Machine Learning/Unsupervised Learning/Clustering/Hard Clustering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clustering"
+              "title": "Hard Clustering"
             }
           }
         ]
@@ -218,6 +218,7 @@
   },
   "active": "dd230a8d5d3354b9",
   "lastOpenFiles": [
+    "Machine Learning/Unsupervised Learning/Clustering/Clustering.md",
     "Machine Learning/Supervised Learning/Supervised Learning.md",
     "Machine Learning/Unsupervised Learning/Basic Concepts/Unlabeled data.md",
     "Machine Learning/Unsupervised Learning/Basic Concepts/Manhattan distance.md",
@@ -251,7 +252,6 @@
     "Machine Learning/Supervised Learning/Regression/Evaluation Metrics/RMSE.md",
     "Machine Learning/Supervised Learning/Images/Pasted image 20260825114656.png",
     "Machine Learning/Supervised Learning/Images/Pasted image 20260825114642.png",
-    "Machine Learning/Supervised Learning/Regression/Evaluation Metrics/MSE.md",
     "Machine Learning/Supervised Learning/Images/Pasted image 20260825114242.png",
     "Machine Learning/Supervised Learning/Images/Pasted image 20260825114228.png",
     "Machine Learning/Supervised Learning/Regression/Evaluation Metrics",
