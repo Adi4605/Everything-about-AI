@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Unsupervised Learning/Basic Concepts/Jaccard similarity.md",
+                "file": "Machine Learning/Unsupervised Learning/Basic Concepts/Manhattan distance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jaccard similarity"
+              "title": "Manhattan distance"
             }
           }
         ]
@@ -218,6 +218,7 @@
   },
   "active": "dd230a8d5d3354b9",
   "lastOpenFiles": [
+    "Machine Learning/Unsupervised Learning/Basic Concepts/Jaccard similarity.md",
     "Machine Learning/Unsupervised Learning/Basic Concepts/Euclidean Distance.md",
     "Machine Learning/Unsupervised Learning/Basic Concepts/Elbow Method.md",
     "Machine Learning/Unsupervised Learning/Basic Concepts/Eigenvectors and Eigenvalues.md",
@@ -253,7 +254,6 @@
     "Machine Learning/Supervised Learning/Images/Pasted image 20260825114228.png",
     "Deep Learning/Gradient Descent.md",
     "Deep Learning/Basic Concepts/Overfitting.md",
-    "Deep Learning/Basic Concepts/Underfitting.md",
     "Machine Learning/Supervised Learning/Regression/Evaluation Metrics",
     "Machine Learning/Unsupervised Learning/Dimensionality Reduction/Algorithms",
     "Machine Learning/Unsupervised Learning/Clustering/Evaluation Techniques",
