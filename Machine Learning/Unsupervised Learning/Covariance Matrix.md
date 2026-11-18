@@ -6,7 +6,6 @@ General Form Of Covariance Matrix:
 where, 
 ![[Pasted image 20260102101625.png]]
 ![[Pasted image 20260102101641.png]]
-
 3 x 3 Covariance Matrix:
 ![[Pasted image 20260102101731.png]]
 
