@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Unsupervised Learning/Covariance Matrix.md",
+                "file": "Machine Learning/Unsupervised Learning/Unsupervised Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Covariance Matrix"
+              "title": "Unsupervised Learning"
             }
           }
         ]
@@ -218,6 +218,7 @@
   },
   "active": "dd230a8d5d3354b9",
   "lastOpenFiles": [
+    "Machine Learning/Unsupervised Learning/Basic Concepts/Covariance Matrix.md",
     "Machine Learning/Unsupervised Learning/Clustering/Soft Clustering.md",
     "Machine Learning/Unsupervised Learning/Clustering/Hard Clustering.md",
     "Machine Learning/Unsupervised Learning/Clustering/Evaluation Techniques/Silhouette Score.md",
@@ -243,7 +244,6 @@
     "Machine Learning/Supervised Learning/Regression/Algorithms/Bayesian Linear Regression.md",
     "Machine Learning/Supervised Learning/Regression/Algorithms/Multiple Linear Regression.md",
     "Machine Learning/Supervised Learning/Regression/Algorithms/Linear Regression.md",
-    "Machine Learning/Supervised Learning/Regression/Evaluation Metrics/Adjusted R2.md",
     "Machine Learning/Supervised Learning/Images/Pasted image 20260825115945.png",
     "Machine Learning/Supervised Learning/Images/Pasted image 20260825115859.png",
     "Machine Learning/Supervised Learning/Images/Pasted image 20260825115848.png",
