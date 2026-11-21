@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Unsupervised Learning/Basic Concepts/Jaccard similarity.md",
+                "file": "Machine Learning/Ensemble Learning/Ensemble Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jaccard similarity"
+              "title": "Ensemble Learning"
             }
           }
         ]
@@ -218,6 +218,9 @@
   },
   "active": "dd230a8d5d3354b9",
   "lastOpenFiles": [
+    "Machine Learning/Unsupervised Learning/Basic Concepts/Jaccard similarity.md",
+    "Machine Learning/Ensemble Learning/Ensemble Learning.md",
+    "Machine Learning/Ensemble Learning",
     "Machine Learning/Unsupervised Learning/Unsupervised Learning.md",
     "Machine Learning/Unsupervised Learning/Basic Concepts/Covariance Matrix.md",
     "Machine Learning/Unsupervised Learning/Clustering/Soft Clustering.md",
@@ -227,7 +230,6 @@
     "Machine Learning/Supervised Learning/Supervised Learning.md",
     "Machine Learning/Unsupervised Learning/Basic Concepts/Unlabeled data.md",
     "Machine Learning/Unsupervised Learning/Basic Concepts/Manhattan distance.md",
-    "Machine Learning/Unsupervised Learning/Basic Concepts/Jaccard similarity.md",
     "Machine Learning/Unsupervised Learning/Basic Concepts/Euclidean Distance.md",
     "Machine Learning/Unsupervised Learning/Basic Concepts/Elbow Method.md",
     "Machine Learning/Unsupervised Learning/Basic Concepts/Eigenvectors and Eigenvalues.md",
@@ -243,7 +245,6 @@
     "Machine Learning/Supervised Learning/Regression/Algorithms/Decision Tree Regression.md",
     "Machine Learning/Supervised Learning/Regression/Algorithms/Random Forest Regression.md",
     "Machine Learning/Supervised Learning/Regression/Algorithms/Bayesian Linear Regression.md",
-    "Machine Learning/Supervised Learning/Regression/Algorithms/Multiple Linear Regression.md",
     "Machine Learning/Supervised Learning/Images/Pasted image 20260825115945.png",
     "Machine Learning/Supervised Learning/Images/Pasted image 20260825115859.png",
     "Machine Learning/Supervised Learning/Images/Pasted image 20260825115848.png",
@@ -262,7 +263,6 @@
     "Machine Learning/Unsupervised Learning/Untitled",
     "Machine Learning/Unsupervised Learning/Clustering",
     "Machine Learning/Supervised Learning/Regression/Algorithms",
-    "Codes/K_Nearest_Neighbors.ipynb",
-    "Databases/Social_Network_Ads.csv"
+    "Codes/K_Nearest_Neighbors.ipynb"
   ]
 }
