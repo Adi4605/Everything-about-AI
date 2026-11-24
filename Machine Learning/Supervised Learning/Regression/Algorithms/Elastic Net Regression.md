@@ -11,7 +11,6 @@ Formula:
 ![[Pasted image 20260824181545.png]]
 ![[Pasted image 20260824181615.png]]
 ![[Pasted image 20260824181633.png]]
-
 - Higher α -> stronger regularization
 - Lower α -> weaker regularization
 
