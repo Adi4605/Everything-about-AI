@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Unsupervised Learning/Clustering/Evaluation Techniques/Silhouette Score.md",
+                "file": "Machine Learning/Unsupervised Learning/Dimensionality Reduction/Dimensionality Reduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Silhouette Score"
+              "title": "Dimensionality Reduction"
             }
           }
         ]
@@ -218,8 +218,9 @@
   },
   "active": "dd230a8d5d3354b9",
   "lastOpenFiles": [
-    "Machine Learning/Unsupervised Learning/Clustering/Clustering.md",
+    "Machine Learning/Unsupervised Learning/Unsupervised Learning.md",
     "Machine Learning/Unsupervised Learning/Clustering/Evaluation Techniques/Silhouette Score.md",
+    "Machine Learning/Unsupervised Learning/Clustering/Clustering.md",
     "Machine Learning/Unsupervised Learning/Clustering/Evaluation Techniques/Normalized Mutual Information (NMI).md",
     "Machine Learning/Unsupervised Learning/Clustering/Evaluation Techniques/Adjusted Rand Index (ARI).md",
     "Machine Learning/Machine Learning.md",
@@ -228,7 +229,6 @@
     "Machine Learning/Ensemble Learning/Ensemble Learning.md",
     "Machine Learning/Unsupervised Learning/Basic Concepts/Jaccard similarity.md",
     "Machine Learning/Ensemble Learning",
-    "Machine Learning/Unsupervised Learning/Unsupervised Learning.md",
     "Machine Learning/Unsupervised Learning/Basic Concepts/Covariance Matrix.md",
     "Machine Learning/Unsupervised Learning/Clustering/Soft Clustering.md",
     "Machine Learning/Unsupervised Learning/Clustering/Hard Clustering.md",
