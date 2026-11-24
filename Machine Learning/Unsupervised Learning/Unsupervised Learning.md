@@ -1,6 +1,5 @@
 Algorithms analyze and model data without any predefined labels or outputs.
 Unsupervised learning deals with [[Unlabeled data]], exploring patterns, structures, and relationships within the data on its own.
-
 Working: 
 • Data Collection and Preparation 
 • Selecting an Unsupervised Learning Algorithm 

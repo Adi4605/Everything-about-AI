@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Unsupervised Learning/Dimensionality Reduction/Dimensionality Reduction.md",
+                "file": "Machine Learning/Unsupervised Learning/Unsupervised Learning.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dimensionality Reduction"
+              "title": "Unsupervised Learning"
             }
           }
         ]
@@ -218,6 +218,7 @@
   },
   "active": "dd230a8d5d3354b9",
   "lastOpenFiles": [
+    "Machine Learning/Unsupervised Learning/Dimensionality Reduction/Dimensionality Reduction.md",
     "Machine Learning/Unsupervised Learning/Unsupervised Learning.md",
     "Machine Learning/Unsupervised Learning/Clustering/Evaluation Techniques/Silhouette Score.md",
     "Machine Learning/Unsupervised Learning/Clustering/Clustering.md",
@@ -244,7 +245,6 @@
     "Machine Learning/Supervised Learning/Regression/Algorithms/Support Vector Regression.md",
     "Machine Learning/Supervised Learning/Regression/Algorithms/Stepwise Regression.md",
     "Machine Learning/Supervised Learning/Regression/Algorithms/Polynomial Regression.md",
-    "Machine Learning/Supervised Learning/Regression/Algorithms/Elastic Net Regression.md",
     "Machine Learning/Supervised Learning/Images/Pasted image 20260825115945.png",
     "Machine Learning/Supervised Learning/Images/Pasted image 20260825115859.png",
     "Machine Learning/Supervised Learning/Images/Pasted image 20260825115848.png",
