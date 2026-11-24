@@ -5,5 +5,4 @@
 Formula:
 	![[Pasted image 20260825113800.png]]
 	![[Pasted image 20260825113815.png]]
-
 - Lower MAE -> Better 
