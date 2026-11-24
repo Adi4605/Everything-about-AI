@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine Learning/Unsupervised Learning/Clustering/Evaluation Techniques/Adjusted Rand Index (ARI).md",
+                "file": "Machine Learning/Unsupervised Learning/Clustering/Evaluation Techniques/Silhouette Score.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Adjusted Rand Index (ARI)"
+              "title": "Silhouette Score"
             }
           }
         ]
@@ -218,8 +218,10 @@
   },
   "active": "dd230a8d5d3354b9",
   "lastOpenFiles": [
-    "Machine Learning/Unsupervised Learning/Clustering/Evaluation Techniques/Normalized Mutual Information (NMI).md",
+    "Machine Learning/Unsupervised Learning/Clustering/Clustering.md",
     "Machine Learning/Unsupervised Learning/Clustering/Evaluation Techniques/Silhouette Score.md",
+    "Machine Learning/Unsupervised Learning/Clustering/Evaluation Techniques/Normalized Mutual Information (NMI).md",
+    "Machine Learning/Unsupervised Learning/Clustering/Evaluation Techniques/Adjusted Rand Index (ARI).md",
     "Machine Learning/Machine Learning.md",
     "Machine Learning/Transfer Learning/Transfer Learning.md",
     "Machine Learning/Reinforcement Learning/Reinforcement Learning.md",
@@ -230,7 +232,6 @@
     "Machine Learning/Unsupervised Learning/Basic Concepts/Covariance Matrix.md",
     "Machine Learning/Unsupervised Learning/Clustering/Soft Clustering.md",
     "Machine Learning/Unsupervised Learning/Clustering/Hard Clustering.md",
-    "Machine Learning/Unsupervised Learning/Clustering/Clustering.md",
     "Machine Learning/Supervised Learning/Supervised Learning.md",
     "Machine Learning/Unsupervised Learning/Basic Concepts/Unlabeled data.md",
     "Machine Learning/Unsupervised Learning/Basic Concepts/Manhattan distance.md",
@@ -244,7 +245,6 @@
     "Machine Learning/Supervised Learning/Regression/Algorithms/Stepwise Regression.md",
     "Machine Learning/Supervised Learning/Regression/Algorithms/Polynomial Regression.md",
     "Machine Learning/Supervised Learning/Regression/Algorithms/Elastic Net Regression.md",
-    "Machine Learning/Supervised Learning/Regression/Algorithms/Lasso Regression.md",
     "Machine Learning/Supervised Learning/Images/Pasted image 20260825115945.png",
     "Machine Learning/Supervised Learning/Images/Pasted image 20260825115859.png",
     "Machine Learning/Supervised Learning/Images/Pasted image 20260825115848.png",
